@@ -1,0 +1,4207 @@
+L1: 10-Q
+L2: --12-31
+L3: 0001674416
+L4: Q3
+L5: false
+L6: 00-0000000
+L7: http://fasb.org/srt/2026#ChiefExecutiveOfficerMember
+L8: 0001674416
+L9: crsp:TwoThousandAndFifteenCollaborationAgreementMember
+L10: crsp:VertexPharmaceuticalsIncorporatedAndItsCertainSubsidiariesMember
+L11: 2026-09-30
+L12: 0001674416
+L13: us-gaap:OperatingSegmentsMember
+L14: crsp:SiriusAgreementMember
+L15: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L16: 2026-01-01
+L17: 2026-09-30
+L18: 0001674416
+L19: us-gaap:FairValueMeasurementsRecurringMember
+L20: us-gaap:EquitySecuritiesMember
+L21: 2025-12-31
+L22: 0001674416
+L23: crsp:ConvertibleSeniorNotesDueTwoThousandThirtyoneMember
+L24: 2026-07-01
+L25: 2026-09-30
+L26: 0001674416
+L27: us-gaap:CommonStockMember
+L28: 2025-01-01
+L29: 2025-03-31
+L30: 0001674416
+L31: us-gaap:GrantMember
+L32: 2026-01-01
+L33: 2026-09-30
+L34: 0001674416
+L35: crsp:UnvestedRestrictedCommonSharesMember
+L36: 2026-07-01
+L37: 2026-09-30
+L38: 0001674416
+L39: us-gaap:EquitySecuritiesMember
+L40: 2025-07-01
+L41: 2025-09-30
+L42: 0001674416
+L43: crsp:CollaborationRevenueMember
+L44: 2026-07-01
+L45: 2026-09-30
+L46: 0001674416
+L47: us-gaap:MoneyMarketFundsMember
+L48: us-gaap:FairValueInputsLevel1Member
+L49: us-gaap:FairValueMeasurementsRecurringMember
+L50: 2025-12-31
+L51: 0001674416
+L52: crsp:VertexPharmaceuticalsIncorporatedAndItsCertainSubsidiariesMember
+L53: 2026-07-01
+L54: 2026-09-30
+L55: 0001674416
+L56: us-gaap:CommonStockMember
+L57: 2025-06-30
+L58: 0001674416
+L59: us-gaap:LeaseholdImprovementsMember
+L60: 2026-09-30
+L61: 0001674416
+L62: us-gaap:RetainedEarningsMember
+L63: 2025-07-01
+L64: 2025-09-30
+L65: 0001674416
+L66: 2025-03-31
+L67: 0001674416
+L68: us-gaap:AdditionalPaidInCapitalMember
+L69: 2026-01-01
+L70: 2026-03-31
+L71: 0001674416
+L72: 2026-06-30
+L73: 0001674416
+L74: us-gaap:CollaborativeArrangementMember
+L75: crsp:VertexPharmaceuticalsIncorporatedAndItsCertainSubsidiariesMember
+L76: 2026-01-01
+L77: 2026-09-30
+L78: 0001674416
+L79: us-gaap:CashMember
+L80: us-gaap:FairValueMeasurementsRecurringMember
+L81: 2025-12-31
+L82: 0001674416
+L83: us-gaap:CorporateDebtSecuritiesMember
+L84: us-gaap:FairValueInputsLevel2Member
+L85: us-gaap:FairValueMeasurementsRecurringMember
+L86: 2025-12-31
+L87: 0001674416
+L88: us-gaap:TreasuryStockCommonMember
+L89: 2026-09-30
+L90: 0001674416
+L91: us-gaap:ConstructionInProgressMember
+L92: 2025-12-31
+L93: 0001674416
+L94: crsp:AssumedConversionOfNotesMember
+L95: 2025-07-01
+L96: 2025-09-30
+L97: 0001674416
+L98: us-gaap:TreasuryStockCommonMember
+L99: 2025-12-31
+L100: 0001674416
+L101: us-gaap:OperatingSegmentsMember
+L102: crsp:VertexHemoglobinopathyAgreementsMember
+L103: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L104: 2026-01-01
+L105: 2026-09-30
+L106: 0001674416
+L107: srt:ScenarioForecastMember
+L108: crsp:SiriusTherapeuticsMember
+L109: 2026-10-01
+L110: 2026-12-31
+L111: 0001674416
+L112: us-gaap:AdditionalPaidInCapitalMember
+L113: 2025-12-31
+L114: 0001674416
+L115: us-gaap:FairValueInputsLevel1Member
+L116: us-gaap:FairValueMeasurementsRecurringMember
+L117: 2025-12-31
+L118: 0001674416
+L119: us-gaap:RetainedEarningsMember
+L120: 2025-03-31
+L121: 0001674416
+L122: us-gaap:RetainedEarningsMember
+L123: 2026-04-01
+L124: 2026-06-30
+L125: 0001674416
+L126: 2023-01-01
+L127: 2023-12-31
+L128: 0001674416
+L129: crsp:AssumedConversionOfNotesMember
+L130: 2026-07-01
+L131: 2026-09-30
+L132: 0001674416
+L133: us-gaap:ResearchAndDevelopmentExpense
+L134: 2025-01-01
+L135: 2025-09-30
+L136: 0001674416
+L137: us-gaap:RetainedEarningsMember
+L138: 2025-01-01
+L139: 2025-03-31
+L140: 0001674416
+L141: us-gaap:CorporateDebtSecuritiesMember
+L142: us-gaap:FairValueMeasurementsRecurringMember
+L143: 2026-09-30
+L144: 0001674416
+L145: crsp:TwoThousandTwentyOneAtMarketOfferingMember
+L146: crsp:SalesAgreementWithJefferiesLLCMember
+L147: srt:MaximumMember
+L148: 2021-01-01
+L149: 2021-01-31
+L150: 0001674416
+L151: us-gaap:AccumulatedOtherComprehensiveIncomeMember
+L152: 2025-06-30
+L153: 0001674416
+L154: us-gaap:PrepaidExpenseAndOtherAssetsCurrent
+L155: 2025-12-31
+L156: 0001674416
+L157: us-gaap:TreasuryStockCommonMember
+L158: 2025-09-30
+L159: 0001674416
+L160: us-gaap:RestrictedStockMember
+L161: 2025-12-31
+L162: 0001674416
+L163: us-gaap:FairValueInputsLevel1Member
+L164: us-gaap:CashMember
+L165: us-gaap:FairValueMeasurementsRecurringMember
+L166: 2026-09-30
+L167: 0001674416
+L168: us-gaap:AdditionalPaidInCapitalMember
+L169: 2024-12-31
+L170: 0001674416
+L171: crsp:LaboratoryEquipmentMember
+L172: 2026-09-30
+L173: 0001674416
+L174: us-gaap:TreasuryStockCommonMember
+L175: 2025-03-31
+L176: 0001674416
+L177: us-gaap:CommonStockMember
+L178: 2026-09-30
+L179: 0001674416
+L180: us-gaap:FairValueInputsLevel2Member
+L181: us-gaap:FairValueMeasurementsRecurringMember
+L182: 2026-09-30
+L183: 0001674416
+L184: 2025-06-30
+L185: 0001674416
+L186: us-gaap:EmployeeStockOptionMember
+L187: 2026-04-01
+L188: 2026-06-30
+L189: 0001674416
+L190: us-gaap:EquitySecuritiesMember
+L191: 2026-01-01
+L192: 2026-09-30
+L193: 0001674416
+L194: 2025-12-31
+L195: 0001674416
+L196: us-gaap:CommercialPaperMember
+L197: 2026-09-30
+L198: 0001674416
+L199: us-gaap:EmployeeStockMember
+L200: 2026-07-01
+L201: 2026-09-30
+L202: 0001674416
+L203: us-gaap:CommercialPaperMember
+L204: us-gaap:FairValueMeasurementsRecurringMember
+L205: 2025-12-31
+L206: 0001674416
+L207: 2023-06-08
+L208: 0001674416
+L209: us-gaap:CorporateDebtSecuritiesMember
+L210: us-gaap:FairValueInputsLevel2Member
+L211: us-gaap:FairValueMeasurementsRecurringMember
+L212: 2026-09-30
+L213: 0001674416
+L214: us-gaap:FairValueInputsLevel1Member
+L215: us-gaap:FairValueMeasurementsRecurringMember
+L216: us-gaap:EquitySecuritiesMember
+L217: 2026-09-30
+L218: 0001674416
+L219: us-gaap:GeneralAndAdministrativeExpense
+L220: 2026-01-01
+L221: 2026-09-30
+L222: 0001674416
+L223: us-gaap:CorporateDebtSecuritiesMember
+L224: 2025-12-31
+L225: 0001674416
+L226: us-gaap:RetainedEarningsMember
+L227: 2025-04-01
+L228: 2025-06-30
+L229: 0001674416
+L230: us-gaap:FairValueInputsLevel3Member
+L231: us-gaap:FairValueMeasurementsRecurringMember
+L232: 2025-12-31
+L233: 0001674416
+L234: us-gaap:OperatingSegmentsMember
+L235: us-gaap:GrantMember
+L236: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L237: 2026-01-01
+L238: 2026-09-30
+L239: 0001674416
+L240: crsp:SiriusTherapeuticsMember
+L241: 2026-01-01
+L242: 2026-09-30
+L243: 0001674416
+L244: crsp:CollaborationRevenueMember
+L245: us-gaap:OperatingSegmentsMember
+L246: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L247: 2025-07-01
+L248: 2025-09-30
+L249: 0001674416
+L250: crsp:CollaborationRevenueMember
+L251: us-gaap:OperatingSegmentsMember
+L252: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L253: 2026-07-01
+L254: 2026-09-30
+L255: 0001674416
+L256: us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember
+L257: 2026-09-30
+L258: 0001674416
+L259: us-gaap:GrantMember
+L260: 2025-07-01
+L261: 2025-09-30
+L262: 0001674416
+L263: us-gaap:FairValueInputsLevel1Member
+L264: us-gaap:FairValueMeasurementsRecurringMember
+L265: 2026-09-30
+L266: 0001674416
+L267: crsp:CollaborativeArrangementMaterialRightsMember
+L268: crsp:VertexPharmaceuticalsIncorporatedAndItsCertainSubsidiariesMember
+L269: 2026-09-30
+L270: 0001674416
+L271: us-gaap:OperatingSegmentsMember
+L272: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L273: 2026-07-01
+L274: 2026-09-30
+L275: 0001674416
+L276: crsp:VertexPharmaceuticalsIncMember
+L277: us-gaap:CollaborativeArrangementMember
+L278: 2026-09-30
+L279: 0001674416
+L280: us-gaap:TreasuryStockCommonMember
+L281: 2024-12-31
+L282: 0001674416
+L283: us-gaap:PrepaidExpenseAndOtherAssetsCurrent
+L284: 2026-09-30
+L285: 0001674416
+L286: us-gaap:LetterOfCreditMember
+L287: 2025-12-31
+L288: 0001674416
+L289: us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember
+L290: us-gaap:FairValueMeasurementsRecurringMember
+L291: 2025-12-31
+L292: 0001674416
+L293: us-gaap:RetainedEarningsMember
+L294: 2026-03-31
+L295: 0001674416
+L296: srt:MaximumMember
+L297: crsp:SiriusTherapeuticsMember
+L298: 2026-01-01
+L299: 2026-09-30
+L300: 0001674416
+L301: us-gaap:ComputerEquipmentMember
+L302: 2025-12-31
+L303: 0001674416
+L304: us-gaap:FairValueMeasurementsRecurringMember
+L305: us-gaap:EquitySecuritiesMember
+L306: 2026-09-30
+L307: 0001674416
+L308: crsp:AmendedAndRestatedVertexJointDevelopmentAndCommercializationAgreementMember
+L309: crsp:VertexPharmaceuticalsIncorporatedAndItsCertainSubsidiariesMember
+L310: 2023-01-01
+L311: 2023-12-31
+L312: 0001674416
+L313: us-gaap:AccumulatedOtherComprehensiveIncomeMember
+L314: 2025-07-01
+L315: 2025-09-30
+L316: 0001674416
+L317: us-gaap:OperatingSegmentsMember
+L318: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L319: 2025-07-01
+L320: 2025-09-30
+L321: 0001674416
+L322: us-gaap:OperatingSegmentsMember
+L323: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L324: 2026-01-01
+L325: 2026-09-30
+L326: 0001674416
+L327: us-gaap:EmployeeStockMember
+L328: 2026-01-01
+L329: 2026-09-30
+L330: 0001674416
+L331: us-gaap:EmployeeStockOptionMember
+L332: 2025-07-01
+L333: 2025-09-30
+L334: 0001674416
+L335: us-gaap:TreasuryStockCommonMember
+L336: 2025-06-30
+L337: 0001674416
+L338: us-gaap:RetainedEarningsMember
+L339: 2026-06-30
+L340: 0001674416
+L341: crsp:LaboratoryEquipmentMember
+L342: 2025-12-31
+L343: 0001674416
+L344: us-gaap:AccumulatedOtherComprehensiveIncomeMember
+L345: 2026-06-30
+L346: 0001674416
+L347: us-gaap:CommonStockMember
+L348: 2024-12-31
+L349: 0001674416
+L350: us-gaap:OperatingSegmentsMember
+L351: us-gaap:GrantMember
+L352: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L353: 2026-07-01
+L354: 2026-09-30
+L355: 0001674416
+L356: crsp:CollaborationRevenueMember
+L357: us-gaap:OperatingSegmentsMember
+L358: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L359: 2025-01-01
+L360: 2025-09-30
+L361: 0001674416
+L362: us-gaap:FairValueMeasurementsRecurringMember
+L363: 2026-09-30
+L364: 0001674416
+L365: us-gaap:OperatingSegmentsMember
+L366: crsp:VertexHemoglobinopathyAgreementsMember
+L367: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L368: 2026-07-01
+L369: 2026-09-30
+L370: 0001674416
+L371: us-gaap:EquitySecuritiesMember
+L372: 2026-07-01
+L373: 2026-09-30
+L374: 0001674416
+L375: us-gaap:ComputerEquipmentMember
+L376: 2026-09-30
+L377: 0001674416
+L378: 2025-04-01
+L379: 2025-06-30
+L380: 0001674416
+L381: us-gaap:FairValueInputsLevel2Member
+L382: us-gaap:CommercialPaperMember
+L383: us-gaap:FairValueMeasurementsRecurringMember
+L384: 2026-09-30
+L385: 0001674416
+L386: us-gaap:RetainedEarningsMember
+L387: 2025-06-30
+L388: 0001674416
+L389: us-gaap:AdditionalPaidInCapitalMember
+L390: 2026-09-30
+L391: 0001674416
+L392: 2026-07-01
+L393: 2026-09-30
+L394: 0001674416
+L395: us-gaap:CommonStockMember
+L396: 2025-03-31
+L397: 0001674416
+L398: us-gaap:ResearchAndDevelopmentExpense
+L399: 2026-01-01
+L400: 2026-09-30
+L401: 0001674416
+L402: us-gaap:CommercialPaperMember
+L403: us-gaap:FairValueMeasurementsRecurringMember
+L404: 2026-09-30
+L405: 0001674416
+L406: crsp:VertexPharmaceuticalsIncorporatedAndItsCertainSubsidiariesMember
+L407: 2025-01-01
+L408: 2025-09-30
+L409: 0001674416
+L410: us-gaap:EmployeeStockOptionMember
+L411: 2026-09-30
+L412: 0001674416
+L413: us-gaap:OperatingSegmentsMember
+L414: crsp:SiriusAgreementMember
+L415: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L416: 2026-07-01
+L417: 2026-09-30
+L418: 0001674416
+L419: crsp:CollaborationRevenueMember
+L420: 2025-01-01
+L421: 2025-09-30
+L422: 0001674416
+L423: us-gaap:CertificatesOfDepositMember
+L424: 2026-09-30
+L425: 0001674416
+L426: us-gaap:EmployeeStockOptionMember
+L427: 2026-07-01
+L428: 2026-09-30
+L429: 0001674416
+L430: us-gaap:AdditionalPaidInCapitalMember
+L431: 2026-06-30
+L432: 0001674416
+L433: 2026-03-31
+L434: 0001674416
+L435: us-gaap:CommonStockMember
+L436: 2026-06-30
+L437: 0001674416
+L438: us-gaap:CommonStockMember
+L439: 2026-07-01
+L440: 2026-09-30
+L441: 0001674416
+L442: 2025-01-01
+L443: 2025-03-31
+L444: 0001674416
+L445: crsp:ConvertibleSeniorNotesDueTwoThousandThirtyoneMember
+L446: 2026-03-16
+L447: 0001674416
+L448: srt:MaximumMember
+L449: crsp:SiriusTherapeuticsMember
+L450: 2026-09-30
+L451: 0001674416
+L452: us-gaap:FairValueInputsLevel2Member
+L453: us-gaap:FairValueMeasurementsRecurringMember
+L454: 2025-12-31
+L455: 0001674416
+L456: 2026-03-16
+L457: 2026-03-16
+L458: 0001674416
+L459: crsp:NonExLicenseAgreementMember
+L460: crsp:VertexPharmaceuticalsIncorporatedAndItsCertainSubsidiariesMember
+L461: 2026-09-30
+L462: 0001674416
+L463: crsp:VertexPharmaceuticalsIncMember
+L464: 2026-01-01
+L465: 2026-09-30
+L466: 0001674416
+L467: us-gaap:GeneralAndAdministrativeExpense
+L468: 2025-07-01
+L469: 2025-09-30
+L470: 0001674416
+L471: us-gaap:MoneyMarketFundsMember
+L472: us-gaap:FairValueMeasurementsRecurringMember
+L473: 2025-12-31
+L474: 0001674416
+L475: us-gaap:ResearchAndDevelopmentExpense
+L476: 2025-07-01
+L477: 2025-09-30
+L478: 0001674416
+L479: us-gaap:RetainedEarningsMember
+L480: 2026-09-30
+L481: 0001674416
+L482: crsp:TwoThousandTwentyFiveAtMarketOfferingMember
+L483: crsp:SalesAgreementWithJefferiesLLCMember
+L484: srt:MaximumMember
+L485: 2025-10-01
+L486: 2025-10-31
+L487: 0001674416
+L488: us-gaap:AccumulatedOtherComprehensiveIncomeMember
+L489: 2025-09-30
+L490: 0001674416
+L491: us-gaap:AccumulatedOtherComprehensiveIncomeMember
+L492: 2024-12-31
+L493: 0001674416
+L494: crsp:CapitalBandMember
+L495: 2026-09-30
+L496: 0001674416
+L497: us-gaap:OperatingSegmentsMember
+L498: us-gaap:GrantMember
+L499: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L500: 2025-07-01
+L501: 2025-09-30
+L502: 0001674416
+L503: us-gaap:AccumulatedOtherComprehensiveIncomeMember
+L504: 2025-12-31
+L505: 0001674416
+L506: us-gaap:AccumulatedOtherComprehensiveIncomeMember
+L507: 2025-01-01
+L508: 2025-03-31
+L509: 0001674416
+L510: srt:MaximumMember
+L511: 2023-06-08
+L512: 0001674416
+L513: us-gaap:FairValueInputsLevel1Member
+L514: us-gaap:CashMember
+L515: us-gaap:FairValueMeasurementsRecurringMember
+L516: 2025-12-31
+L517: 0001674416
+L518: us-gaap:GrantMember
+L519: 2025-01-01
+L520: 2025-09-30
+L521: 0001674416
+L522: us-gaap:OperatingSegmentsMember
+L523: crsp:VertexHemoglobinopathyAgreementsMember
+L524: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L525: 2025-01-01
+L526: 2025-09-30
+L527: 0001674416
+L528: us-gaap:OperatingSegmentsMember
+L529: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L530: 2025-01-01
+L531: 2025-09-30
+L532: 0001674416
+L533: crsp:VertexPharmaceuticalsIncMember
+L534: 2025-01-01
+L535: 2025-09-30
+L536: 0001674416
+L537: 2026-04-01
+L538: 2026-06-30
+L539: 0001674416
+L540: 2026-01-01
+L541: 2026-09-30
+L542: 0001674416
+L543: us-gaap:MoneyMarketFundsMember
+L544: 2025-12-31
+L545: 0001674416
+L546: us-gaap:TreasuryStockCommonMember
+L547: 2025-07-01
+L548: 2025-09-30
+L549: 0001674416
+L550: us-gaap:FairValueMeasurementsRecurringMember
+L551: crsp:CertificatesAndTermDepositsMember
+L552: 2026-09-30
+L553: 0001674416
+L554: crsp:SiriusTherapeuticsMember
+L555: 2025-05-19
+L556: 0001674416
+L557: us-gaap:CommercialPaperMember
+L558: 2025-12-31
+L559: 0001674416
+L560: crsp:UnvestedRestrictedCommonSharesMember
+L561: 2025-01-01
+L562: 2025-09-30
+L563: 0001674416
+L564: us-gaap:EmployeeStockOptionMember
+L565: 2025-01-01
+L566: 2025-09-30
+L567: 0001674416
+L568: crsp:AssumedConversionOfNotesMember
+L569: 2026-01-01
+L570: 2026-09-30
+L571: 0001674416
+L572: us-gaap:EmployeeStockOptionMember
+L573: 2025-01-01
+L574: 2025-03-31
+L575: 0001674416
+L576: us-gaap:AdditionalPaidInCapitalMember
+L577: 2025-01-01
+L578: 2025-03-31
+L579: 0001674416
+L580: us-gaap:MoneyMarketFundsMember
+L581: us-gaap:FairValueInputsLevel1Member
+L582: us-gaap:FairValueMeasurementsRecurringMember
+L583: 2026-09-30
+L584: 0001674416
+L585: us-gaap:OperatingSegmentsMember
+L586: crsp:SiriusAgreementMember
+L587: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L588: 2025-07-01
+L589: 2025-09-30
+L590: 0001674416
+L591: us-gaap:FairValueInputsLevel2Member
+L592: us-gaap:FairValueMeasurementsRecurringMember
+L593: us-gaap:EquitySecuritiesMember
+L594: 2026-09-30
+L595: 0001674416
+L596: us-gaap:EmployeeStockOptionMember
+L597: 2026-01-01
+L598: 2026-09-30
+L599: 0001674416
+L600: 2025-01-01
+L601: 2025-09-30
+L602: 0001674416
+L603: crsp:TwoThousandTwentyOneAtMarketOfferingMember
+L604: crsp:SalesAgreementWithJefferiesLLCMember
+L605: 2025-01-01
+L606: 2025-09-30
+L607: 0001674416
+L608: us-gaap:CorporateDebtSecuritiesMember
+L609: us-gaap:FairValueMeasurementsRecurringMember
+L610: 2025-12-31
+L611: 0001674416
+L612: crsp:UnvestedRestrictedCommonSharesMember
+L613: 2026-01-01
+L614: 2026-09-30
+L615: 0001674416
+L616: us-gaap:FairValueInputsLevel2Member
+L617: us-gaap:CommercialPaperMember
+L618: us-gaap:FairValueMeasurementsRecurringMember
+L619: 2025-12-31
+L620: 0001674416
+L621: us-gaap:LeaseholdImprovementsMember
+L622: 2025-12-31
+L623: 0001674416
+L624: us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember
+L625: us-gaap:FairValueInputsLevel2Member
+L626: us-gaap:FairValueMeasurementsRecurringMember
+L627: 2026-09-30
+L628: 0001674416
+L629: us-gaap:AdditionalPaidInCapitalMember
+L630: 2025-03-31
+L631: 0001674416
+L632: us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember
+L633: us-gaap:FairValueInputsLevel2Member
+L634: us-gaap:FairValueMeasurementsRecurringMember
+L635: 2025-12-31
+L636: 0001674416
+L637: us-gaap:AdditionalPaidInCapitalMember
+L638: 2026-04-01
+L639: 2026-06-30
+L640: 0001674416
+L641: crsp:TwoThousandTwentyFiveAtMarketOfferingMember
+L642: crsp:SalesAgreementWithJefferiesLLCMember
+L643: 2026-01-01
+L644: 2026-09-30
+L645: 0001674416
+L646: crsp:SiriusTherapeuticsMember
+L647: 2026-07-01
+L648: 2026-09-30
+L649: 0001674416
+L650: crsp:TwoThousandTwentyOneAtMarketOfferingMember
+L651: crsp:SalesAgreementWithJefferiesLLCMember
+L652: 2025-07-01
+L653: 2025-09-30
+L654: 0001674416
+L655: crsp:TwoThousandTwentyOneAtMarketOfferingMember
+L656: 2025-12-31
+L657: 0001674416
+L658: crsp:VertexPharmaceuticalsIncMember
+L659: us-gaap:CollaborativeArrangementMember
+L660: 2026-07-01
+L661: 2026-09-30
+L662: 0001674416
+L663: crsp:CollaborationRevenueMember
+L664: us-gaap:OperatingSegmentsMember
+L665: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L666: 2026-01-01
+L667: 2026-09-30
+L668: 0001674416
+L669: crsp:FurnitureFixturesAndOtherMember
+L670: 2025-12-31
+L671: 0001674416
+L672: us-gaap:EmployeeStockOptionMember
+L673: 2025-04-01
+L674: 2025-06-30
+L675: 0001674416
+L676: us-gaap:AdditionalPaidInCapitalMember
+L677: 2026-07-01
+L678: 2026-09-30
+L679: 0001674416
+L680: crsp:ConvertibleSeniorNotesDueTwoThousandThirtyoneMember
+L681: 2025-12-31
+L682: 0001674416
+L683: 2022-01-01
+L684: 2022-12-31
+L685: 0001674416
+L686: us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember
+L687: 2025-12-31
+L688: 0001674416
+L689: us-gaap:AccumulatedOtherComprehensiveIncomeMember
+L690: 2025-04-01
+L691: 2025-06-30
+L692: 0001674416
+L693: 2025-07-01
+L694: 2025-09-30
+L695: 0001674416
+L696: 2026-09-30
+L697: 0001674416
+L698: 2024-01-01
+L699: 2024-12-31
+L700: 0001674416
+L701: crsp:SiriusTherapeuticsMember
+L702: 2026-09-30
+L703: 0001674416
+L704: us-gaap:OperatingSegmentsMember
+L705: us-gaap:GrantMember
+L706: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L707: 2025-01-01
+L708: 2025-09-30
+L709: 0001674416
+L710: us-gaap:AdditionalPaidInCapitalMember
+L711: 2025-06-30
+L712: 0001674416
+L713: crsp:SiriusTherapeuticsMember
+L714: 2025-05-19
+L715: 2025-05-19
+L716: 0001674416
+L717: us-gaap:RestrictedStockMember
+L718: 2026-01-01
+L719: 2026-09-30
+L720: 0001674416
+L721: us-gaap:CommonStockMember
+L722: 2025-09-30
+L723: 0001674416
+L724: us-gaap:EquitySecuritiesMember
+L725: 2025-01-01
+L726: 2025-09-30
+L727: 0001674416
+L728: crsp:UnvestedRestrictedCommonSharesMember
+L729: 2025-07-01
+L730: 2025-09-30
+L731: 0001674416
+L732: crsp:ConvertibleSeniorNotesDueTwoThousandThirtyoneMember
+L733: 2026-03-16
+L734: 2026-03-16
+L735: 0001674416
+L736: crsp:VertexPharmaceuticalsIncorporatedAndItsCertainSubsidiariesMember
+L737: 2025-07-01
+L738: 2025-09-30
+L739: 0001674416
+L740: us-gaap:USGovernmentSponsoredEnterprisesDebtSecuritiesMember
+L741: us-gaap:FairValueMeasurementsRecurringMember
+L742: 2026-09-30
+L743: 0001674416
+L744: us-gaap:AdditionalPaidInCapitalMember
+L745: 2025-07-01
+L746: 2025-09-30
+L747: 0001674416
+L748: us-gaap:OperatingSegmentsMember
+L749: crsp:SiriusAgreementMember
+L750: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L751: 2025-01-01
+L752: 2025-09-30
+L753: 0001674416
+L754: us-gaap:CommonStockMember
+L755: 2025-04-01
+L756: 2025-06-30
+L757: 0001674416
+L758: us-gaap:CommonStockMember
+L759: 2026-03-31
+L760: 0001674416
+L761: crsp:VertexPharmaceuticalsIncorporatedAndItsCertainSubsidiariesMember
+L762: 2026-01-01
+L763: 2026-09-30
+L764: 0001674416
+L765: us-gaap:RetainedEarningsMember
+L766: 2026-07-01
+L767: 2026-09-30
+L768: 0001674416
+L769: crsp:AmendedAndRestatedVertexJointDevelopmentAndCommercializationAgreementMember
+L770: crsp:VertexPharmaceuticalsIncorporatedAndItsCertainSubsidiariesMember
+L771: 2021-12-31
+L772: 0001674416
+L773: us-gaap:EmployeeStockMember
+L774: 2025-07-01
+L775: 2025-09-30
+L776: 0001674416
+L777: us-gaap:MoneyMarketFundsMember
+L778: us-gaap:FairValueMeasurementsRecurringMember
+L779: 2026-09-30
+L780: 0001674416
+L781: us-gaap:GeneralAndAdministrativeExpense
+L782: 2026-07-01
+L783: 2026-09-30
+L784: 0001674416
+L785: us-gaap:GrantMember
+L786: 2026-07-01
+L787: 2026-09-30
+L788: 0001674416
+L789: us-gaap:AdditionalPaidInCapitalMember
+L790: 2025-09-30
+L791: 0001674416
+L792: us-gaap:AccumulatedOtherComprehensiveIncomeMember
+L793: 2026-03-31
+L794: 0001674416
+L795: crsp:ConvertibleSeniorNotesDueTwoThousandThirtyoneMember
+L796: 2026-09-30
+L797: 0001674416
+L798: us-gaap:MoneyMarketFundsMember
+L799: 2026-09-30
+L800: 0001674416
+L801: us-gaap:ConstructionInProgressMember
+L802: 2026-09-30
+L803: 0001674416
+L804: crsp:VertexPharmaceuticalsIncMember
+L805: 2024-05-01
+L806: 2024-05-31
+L807: 0001674416
+L808: us-gaap:AdditionalPaidInCapitalMember
+L809: 2026-03-31
+L810: 0001674416
+L811: crsp:TwoThousandTwentyFiveAtMarketOfferingMember
+L812: crsp:SalesAgreementWithJefferiesLLCMember
+L813: 2026-09-30
+L814: 0001674416
+L815: us-gaap:AccumulatedOtherComprehensiveIncomeMember
+L816: 2026-09-30
+L817: 0001674416
+L818: us-gaap:LetterOfCreditMember
+L819: 2026-09-30
+L820: 0001674416
+L821: us-gaap:OperatingSegmentsMember
+L822: crsp:VertexHemoglobinopathyAgreementsMember
+L823: crsp:BusinessOfDiscoveringDevelopingAndCommercializingTherapiesMember
+L824: 2025-07-01
+L825: 2025-09-30
+L826: 0001674416
+L827: us-gaap:FairValueInputsLevel2Member
+L828: us-gaap:FairValueMeasurementsRecurringMember
+L829: crsp:CertificatesAndTermDepositsMember
+L830: 2026-09-30
+L831: 0001674416
+L832: us-gaap:CommonStockMember
+L833: 2026-04-01
+L834: 2026-06-30
+L835: 0001674416
+L836: crsp:VertexPharmaceuticalsIncMember
+L837: us-gaap:CollaborativeArrangementMember
+L838: 2026-01-01
+L839: 2026-09-30
+L840: 0001674416
+L841: crsp:AmendedAndRestatedVertexJointDevelopmentAndCommercializationAgreementMember
+L842: 2021-12-31
+L843: 0001674416
+L844: us-gaap:RetainedEarningsMember
+L845: 2025-09-30
+L846: 0001674416
+L847: us-gaap:EmployeeStockOptionMember
+L848: 2026-01-01
+L849: 2026-09-30
+L850: 0001674416
+L851: us-gaap:CommonStockMember
+L852: 2025-07-01
+L853: 2025-09-30
+L854: 0001674416
+L855: crsp:FurnitureFixturesAndOtherMember
+L856: 2026-09-30
+L857: 0001674416
+L858: us-gaap:AccumulatedOtherComprehensiveIncomeMember
+L859: 2026-04-01
+L860: 2026-06-30
+L861: 0001674416
+L862: us-gaap:TreasuryStockCommonMember
+L863: 2026-03-31
+L864: 0001674416
+L865: us-gaap:IntellectualPropertyMember
+L866: 2026-04-01
+L867: 2026-06-30
+L868: 0001674416
+L869: us-gaap:FairValueInputsLevel2Member
+L870: us-gaap:CertificatesOfDepositMember
+L871: us-gaap:FairValueMeasurementsRecurringMember
+L872: 2025-12-31
+L873: 0001674416
+L874: crsp:VertexPharmaceuticalsIncMember
+L875: 2025-07-01
+L876: 2025-09-30
+L877: 0001674416
+L878: 2025-09-30
+L879: 0001674416
+L880: us-gaap:AccumulatedOtherComprehensiveIncomeMember
+L881: 2026-01-01
+L882: 2026-03-31
+L883: 0001674416
+L884: us-gaap:CorporateDebtSecuritiesMember
+L885: 2026-09-30
+L886: 0001674416
+L887: crsp:CollaborationRevenueMember
+L888: 2026-01-01
+L889: 2026-09-30
+L890: 0001674416
+L891: us-gaap:EmployeeStockOptionMember
+L892: 2025-07-01
+L893: 2025-09-30
+L894: 0001674416
+L895: crsp:VertexPharmaceuticalsIncMember
+L896: 2026-07-01
+L897: 2026-09-30
+L898: 0001674416
+L899: us-gaap:AccumulatedOtherComprehensiveIncomeMember
+L900: 2025-03-31
+L901: 0001674416
+L902: srt:MaximumMember
+L903: crsp:SiriusTherapeuticsMember
+L904: 2025-05-19
+L905: 2025-05-19
+L906: 0001674416
+L907: us-gaap:IntellectualPropertyMember
+L908: 2025-10-01
+L909: 2025-12-31
+L910: 0001674416
+L911: us-gaap:CertificatesOfDepositMember
+L912: 2025-12-31
+L913: 0001674416
+L914: crsp:TwoThousandTwentyOneAtMarketOfferingMember
+L915: 2025-01-01
+L916: 2025-12-31
+L917: 0001674416
+L918: us-gaap:FairValueMeasurementsRecurringMember
+L919: 2025-12-31
+L920: 0001674416
+L921: us-gaap:RetainedEarningsMember
+L922: 2024-12-31
+L923: 0001674416
+L924: crsp:SiriusAgreementMember
+L925: 2026-01-01
+L926: 2026-09-30
+L927: 0001674416
+L928: us-gaap:AdditionalPaidInCapitalMember
+L929: 2025-04-01
+L930: 2025-06-30
+L931: 0001674416
+L932: us-gaap:ResearchAndDevelopmentExpense
+L933: 2026-07-01
+L934: 2026-09-30
+L935: 0001674416
+L936: 2024-12-31
+L937: 0001674416
+L938: crsp:SiriusAgreementMember
+L939: 2026-07-01
+L940: 2026-09-30
+L941: 0001674416
+L942: crsp:CorporateEquitySecuritiesMember
+L943: 2025-12-31
+L944: 0001674416
+L945: crsp:CorporateEquitySecuritiesMember
+L946: 2026-09-30
+L947: 0001674416
+L948: us-gaap:TreasuryStockCommonMember
+L949: 2026-04-01
+L950: 2026-06-30
+L951: 0001674416
+L952: us-gaap:TreasuryStockCommonMember
+L953: 2026-06-30
+L954: 0001674416
+L955: us-gaap:GeneralAndAdministrativeExpense
+L956: 2025-01-01
+L957: 2025-09-30
+L958: 0001674416
+L959: 2026-10-30
+L960: 0001674416
+L961: 2026-01-01
+L962: 2026-03-31
+L963: 0001674416
+L964: us-gaap:CashMember
+L965: us-gaap:FairValueMeasurementsRecurringMember
+L966: 2026-09-30
+L967: 0001674416
+L968: us-gaap:EmployeeStockOptionMember
+L969: 2026-07-01
+L970: 2026-09-30
+L971: 0001674416
+L972: crsp:CollaborationRevenueMember
+L973: 2025-07-01
+L974: 2025-09-30
+L975: 0001674416
+L976: us-gaap:RestrictedStockMember
+L977: 2026-09-30
+L978: 0001674416
+L979: us-gaap:AccumulatedOtherComprehensiveIncomeMember
+L980: 2026-07-01
+L981: 2026-09-30
+L982: 0001674416
+L983: crsp:ConvertibleSeniorNotesDueTwoThousandThirtyoneMember
+L984: 2026-01-01
+L985: 2026-09-30
+L986: 0001674416
+L987: us-gaap:CertificatesOfDepositMember
+L988: us-gaap:FairValueMeasurementsRecurringMember
+L989: 2025-12-31
+L990: 0001674416
+L991: us-gaap:CommonStockMember
+L992: 2026-01-01
+L993: 2026-03-31
+L994: 0001674416
+L995: crsp:AssumedConversionOfNotesMember
+L996: 2025-01-01
+L997: 2025-09-30
+L998: 0001674416
+L999: us-gaap:FairValueInputsLevel2Member
+L1000: us-gaap:FairValueMeasurementsRecurringMember
+L1001: us-gaap:EquitySecuritiesMember
+L1002: 2025-12-31
+L1003: 0001674416
+L1004: us-gaap:RetainedEarningsMember
+L1005: 2025-12-31
+L1006: 0001674416
+L1007: us-gaap:EmployeeStockOptionMember
+L1008: 2026-01-01
+L1009: 2026-03-31
+L1010: 0001674416
+L1011: us-gaap:TreasuryStockCommonMember
+L1012: 2026-07-01
+L1013: 2026-09-30
+L1014: 0001674416
+L1015: us-gaap:RetainedEarningsMember
+L1016: 2026-01-01
+L1017: 2026-03-31
+L1018: 0001674416
+L1019: us-gaap:EmployeeStockMember
+L1020: 2025-01-01
+L1021: 2025-09-30
+L1022: 0001674416
+L1023: srt:MaximumMember
+L1024: crsp:ConvertibleSeniorNotesDueTwoThousandThirtyoneMember
+L1025: 2026-09-30
+L1026: 0001674416
+L1027: us-gaap:CommonStockMember
+L1028: 2025-12-31
+L1029: xbrli:pure
+L1030: xbrli:shares
+L1031: iso4217:CHF
+L1032: xbrli:shares
+L1033: utr:D
+L1034: iso4217:CHF
+L1035: crsp:Segment
+L1036: iso4217:USD
+L1037: xbrli:shares
+L1038: iso4217:USD
+L1039: Table of Contents
+L1040: UNITED STATES
+L1041: SECURITIES AND EXCHANGE COMMISSION
+L1042: Washington, D.C. 20549
+L1043: FORM
+L1044: 10-Q
+L1045: ☒
+L1046: QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+L1047: For the quarterly period ended
+L1048: September 30,
+L1049: 2026
+L1050: or
+L1051: ☐
+L1052: TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+L1053: For the transition period from
+L1054: to
+L1055: .
+L1056: Commission File Number:
+L1057: 001-37923
+L1058: CRISPR THERAPEUTICS AG
+L1059: (Exact name of registrant as specified in its charter)
+L1060: Switzerland
+L1061: Not Applicable
+L1062: (State or other jurisdiction of
+L1063: incorporation or organization)
+L1064: (I.R.S. Employer
+L1065: Identification No.)
+L1066: Baarerstrasse 14
+L1067: 6300
+L1068: Zug
+L1069: ,
+L1070: Switzerland
+L1071: Not Applicable
+L1072: (Address of principal executive offices)
+L1073: (Zip Code)
+L1074: +
+L1075: 41 (0)41
+L1076: 561 32 79
+L1077: (Registrant’s telephone number, including area code)
+L1078: Securities registered pursuant to Section 12(b) of the Act:
+L1079: Title of each class
+L1080: Trading Symbol(s)
+L1081: Name of each exchange on which registered
+L1082: Common Shares, nominal value CHF 0.03
+L1083: CRSP
+L1084: The Nasdaq Global Market
+L1085: Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+L1086: Yes
+L1087: ☒
+L1088: No
+L1089: ☐
+L1090: Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+L1091: Yes
+L1092: ☒
+L1093: No
+L1094: ☐
+L1095: Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or emerging growth company. See definition of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+L1096: Large Accelerated filer
+L1097: ☒
+L1098: Accelerated filer
+L1099: ☐
+L1100: Non-accelerated filer
+L1101: ☐
+L1102: Smaller reporting company
+L1103: ☐
+L1104: Emerging growth company
+L1105: ☐
+L1106: If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+L1107: Indicate by check mark whether registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes  ☐    No
+L1108: ☒
+L1109: As of October 30, 2026, there were
+L1110: 97,000,813
+L1111: shares of registrant’s common shares outstanding.
+L1112: Table of Contents
+L1113: Throughout this Quarterly Report on Form 10-Q, the “Company,” “CRISPR,” “CRISPR Therapeutics,” “we,” “us,” and “our,” except where the context requires otherwise, refer to CRISPR Therapeutics AG and its consolidated subsidiaries; “our board of directors” refers to the board of directors of CRISPR Therapeutics AG; and we generally refer to CASGEVY
+L1114: ®
+L1115: (exagamglogene autotemcel [exa-cel]), as “CASGEVY”.
+L1116: “CRISPR Therapeutics
+L1117: ®
+L1118: ” standard character mark and design logo, “CRISPRX
+L1119: ™
+L1120: ,” “CRISPR TX
+L1121: ™
+L1122: ,” “CTX213
+L1123: ™
+L1124: ,” “CTX310
+L1125: ®
+L1126: ,” “CTX321
+L1127: ™
+L1128: ,” “CTX340
+L1129: ™
+L1130: ,” “CTX460
+L1131: ™,
+L1132: ” “CTX611
+L1133: ™
+L1134: ”and “SyNTase
+L1135: ™”
+L1136: are trademarks and registered trademarks of CRISPR Therapeutics AG. CASGEVY
+L1137: ®
+L1138: and the CASGEVY logo are registered trademarks of Vertex Pharmaceuticals Incorporated, and Vertex Pharmaceuticals Incorporated is the manufacturer and exclusive license holder of CASGEVY. All other trademarks and registered trademarks contained in this Quarterly Report on Form 10-Q are the property of their respective owners. Solely for convenience, trademarks, service marks and trade names referred to in this Quarterly Report on Form 10-Q may appear without the ® or ™ symbols and any such omission is not intended to indicate waiver of any such rights.
+L1139: FORWARD-LOOKING STATEMENTS
+L1140: This Quarterly Report on Form 10-Q contains “forward-looking statements” that involve substantial risks and uncertainties. All statements, other than statements of historical facts, contained in this Quarterly Report on Form 10-Q are forward-looking statements. These statements are often identified by the use of words such as “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “plan,” “predict,” “project,” “potential,” “will,” “would” or the negative or plural of these words or similar expressions or variations, although not all forward-looking statements contain these identifying words. Forward-looking statements in this Quarterly Report on Form 10-Q include, but are not limited to, statements about:
+L1141: •
+L1142: our strategic plans to develop and, if approved, subsequently commercialize any product candidates we may develop, including plans and expectations for the commercialization of, and anticipated benefits of, CASGEVY, including plans for patient access to CASGEVY;
+L1143: •
+L1144: the safety, efficacy and clinical progress of various clinical programs, including those for CASGEVY, zugocabtagene geleucel, CTX310, CTX340, CTX460 and CTX611;
+L1145: •
+L1146: the status of clinical trials, including development timelines and discussions with regulatory authorities related to product candidates under development by us and us and our collaborators;
+L1147: •
+L1148: the results of preclinical studies and clinical trials, including ongoing clinical trials and any planned clinical trials, and research and development programs;
+L1149: •
+L1150: the actual or potential benefits of regulatory designations, such as orphan drug, fast track and regenerative medicine advanced therapy in the United States or such European equivalents;
+L1151: •
+L1152: our ability to advance product candidates into, and successfully complete, clinical trials;
+L1153: •
+L1154: the size and growth potential of the markets for our product candidates and our ability to serve those markets, including our estimates regarding the addressable patient population and potential market opportunity for our current and future product candidates;
+L1155: •
+L1156: the rate and degree of market acceptance of our product candidates and the success of competing therapies that are or become available;
+L1157: •
+L1158: our internal manufacturing capabilities and operation of our cell therapy manufacturing facility;
+L1159: •
+L1160: our intellectual property coverage and positions, including those of our licensors and third parties as well as the status and potential outcome of proceedings involving any such intellectual property;
+L1161: •
+L1162: the expected benefits of our collaborations;
+L1163: •
+L1164: our strategy, goals, and anticipated financial performance;
+L1165: •
+L1166: our ability to service or pay down existing or future debt obligations;
+L1167: •
+L1168: our anticipated expenses, ability to obtain funding for our operations and the sufficiency of our cash resources;
+L1169: •
+L1170: the therapeutic value, development, and commercial potential of gene editing technologies and therapies, including CRISPR/Cas9 and SyNTase, as well as other technologies we develop and use, including delivery and small interfering RNA, or siRNA; and
+L1171: •
+L1172: the volatility of capital markets and unfavorable macroeconomic conditions resulting from factors including rising inflation, changes in or disruptions of U.S. governmental agencies, new or increased international tariffs and retaliatory tariffs, interest rate and currency rate fluctuations, new laws and regulations or amendments to existing laws and regulations in the U.S. and foreign countries, trade protection measures, economic sanctions and economic slowdowns or recessions, banking instability, monetary policy changes, geopolitical tensions or the outbreak of hostilities or war.
+L1173: Any forward-looking statements in this Quarterly Report on Form 10-Q
+L1174: reflect our current views with respect to future events or to our future financial performance and involve known and unknown risks, uncertainties and assumptions that could cause our actual results and the timing of certain events to differ materially from future results expressed or implied by the forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, those identified herein, and those discussed in the section titled “Risk Factors,” set forth in Part II, Item 1A of this Quarterly Report on Form 10-Q, if any, our Annual Report on Form 10-K filed with the Securities and Exchange Commission, or SEC, on February 12, 2026, and in other SEC filings. You should
+L1175: Table of Contents
+L1176: not rely upon forward-looking statements as predictions of future events. Such forward-looking statements speak only as of the date of this report. Our forward-looking statements do not reflect the potential impact of any future acquisitions, mergers, dispositions, joint ventures or investments we may make or enter into.
+L1177: This Quarterly Report on Form 10-Q also may contain information regarding our industry, our business and the markets for certain of our product candidates, including data regarding the estimated size of those markets, and the incidence and prevalence of certain medical conditions. Unless otherwise expressly stated, we obtained this industry, business, market and other data from market research firms and other third parties, including medical publications, government data and similar sources. Information that is based on estimates, forecasts, projections, market research or similar methodologies is inherently subject to uncertainties and actual events or circumstances may differ materially from events and circumstances reflected in this information.
+L1178: You should read this Quarterly Report on Form 10-Q and the documents that we have filed as exhibits to this Quarterly Report on Form 10-Q completely and with the understanding that our actual future results, performance or achievements may be materially different from what we expect. Except as required by law, we undertake no obligation to update any forward-looking statements to reflect events or circumstances after the date of such statements.
+L1179: Investors and others should note that we announce material information to our investors using our investor relations website (
+L1180: https://crisprtx.gcs-web.com/
+L1181: ), SEC filings, press releases, public conference calls and webcasts. We use these channels as well as social media to communicate with the public about our Company, our business, our product candidates and other matters. It is possible that the information we post on social media could be deemed to be material information. Therefore, we encourage investors, the media, and others interested in our Company to review the information we post on the social media channels listed on our investor relations website.
+L1182: Table of Contents
+L1183: Index
+L1184: Page
+L1185: Number
+L1186: PART I: FINANCIAL INFORMATION
+L1187: Item 1. Condensed Consolidated Financial Statements (unaudited)
+L1188: 2
+L1189: Condensed Consolidated Balance Sheets as of September 30, 2026 and December 31, 2025
+L1190: 2
+L1191: Condensed Consolidated Statements of Operations and Comprehensive Loss for the three and nine months ended September 30, 2026 and 2025
+L1192: 3
+L1193: Condensed Consolidated Statements of Shareholders’ Equity for the three and nine months ended September 30, 2026 and 2025
+L1194: 4
+L1195: Condensed Consolidated Statements of Cash Flows for the nine months ended September 30, 2026 and 2025
+L1196: 6
+L1197: Notes to Condensed Consolidated Financial Statements
+L1198: 7
+L1199: Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+L1200: 20
+L1201: Item 3. Quantitative and Qualitative Disclosures about Market Risk
+L1202: 30
+L1203: Item 4. Controls and Procedures
+L1204: 30
+L1205: PART II: OTHER INFORMATION
+L1206: Item 1. Legal Proceedings
+L1207: 31
+L1208: Item 1A. Risk Factors
+L1209: 31
+L1210: Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+L1211: 31
+L1212: Item 3. Defaults Upon Senior Securities
+L1213: 31
+L1214: Item 4. Mine Safety Disclosures
+L1215: 31
+L1216: Item 5. Other Information
+L1217: 31
+L1218: Item 6. Exhibits
+L1219: 31
+L1220: SIGNATURES
+L1221: 33
+L1222: Table of Contents
+L1223: PART I—FINANCIA
+L1224: L INFORMATION
+L1225: Item 1. Financi
+L1226: al Statements
+L1227: CRISPR Therapeutics AG
+L1228: Condensed Consolidat
+L1229: ed Balance Sheets
+L1230: (unaudited, in thousands, except share and per share data)
+L1231: As of
+L1232: September 30,
+L1233: December 31,
+L1234: 2026
+L1235: 2025
+L1236: Assets
+L1237: Current assets:
+L1238: Cash and cash equivalents
+L1239: $
+L1240: 192,027
+L1241: $
+L1242: 347,559
+L1243: Marketable securities
+L1244: 2,080,521
+L1245: 1,628,269
+L1246: Prepaid expenses and other current assets
+L1247: 12,531
+L1248: 9,843
+L1249: Total current assets
+L1250: 2,285,079
+L1251: 1,985,671
+L1252: Property and equipment, net
+L1253: 104,295
+L1254: 115,851
+L1255: Marketable securities, non-current
+L1256: 4,021
+L1257: —
+L1258: Restricted cash
+L1259: 7,629
+L1260: 7,629
+L1261: Operating lease assets
+L1262: 122,611
+L1263: 131,724
+L1264: Other non-current assets
+L1265: 32,777
+L1266: 24,368
+L1267: Total assets
+L1268: $
+L1269: 2,556,412
+L1270: $
+L1271: 2,265,243
+L1272: Liabilities and shareholders’ equity
+L1273: Current liabilities:
+L1274: Accounts payable
+L1275: $
+L1276: 20,586
+L1277: $
+L1278: 11,138
+L1279: Accrued expenses
+L1280: 82,018
+L1281: 89,407
+L1282: Deferred revenue, current
+L1283: 2,546
+L1284: 15,771
+L1285: Accrued tax liabilities
+L1286: 132
+L1287: 1,113
+L1288: Operating lease liabilities
+L1289: 18,680
+L1290: 18,578
+L1291: Other current liabilities
+L1292: 17,000
+L1293: 13,113
+L1294: Total current liabilities
+L1295: 140,962
+L1296: 149,120
+L1297: Long-term debt
+L1298: 586,934
+L1299: —
+L1300: Operating lease liabilities, net of current portion
+L1301: 174,213
+L1302: 188,168
+L1303: Other non-current liabilities
+L1304: 6,235
+L1305: 6,142
+L1306: Total liabilities
+L1307: 908,344
+L1308: 343,430
+L1309: Commitments and contingencies, see Note 7
+L1310: Shareholders’ equity:
+L1311: Common shares, CHF
+L1312: 0.03
+L1313: nominal value,
+L1314: 144,447,967
+L1315: and
+L1316: 132,477,166
+L1317: shares authorized at September 30, 2026 and December 31, 2025, respectively,
+L1318: 96,930,842
+L1319: and
+L1320: 96,009,657
+L1321: shares issued at September 30, 2026 and December 31, 2025, respectively,
+L1322: 96,855,526
+L1323: and
+L1324: 95,894,341
+L1325: shares outstanding at September 30, 2026 and December 31, 2025, respectively
+L1326: 3,149
+L1327: 3,087
+L1328: Treasury shares, at cost,
+L1329: 75,316
+L1330: and
+L1331: 115,316
+L1332: shares at September 30, 2026 and December 31, 2025, respectively
+L1333: (
+L1334: 60
+L1335: )
+L1336: (
+L1337: 60
+L1338: )
+L1339: Additional paid-in capital
+L1340: 3,932,135
+L1341: 3,861,516
+L1342: Accumulated deficit
+L1343: (
+L1344: 2,273,073
+L1345: )
+L1346: (
+L1347: 1,947,551
+L1348: )
+L1349: Accumulated other comprehensive (loss) income
+L1350: (
+L1351: 14,083
+L1352: )
+L1353: 4,821
+L1354: Total shareholders’ equity
+L1355: 1,648,068
+L1356: 1,921,813
+L1357: Total liabilities and shareholders’ equity
+L1358: $
+L1359: 2,556,412
+L1360: $
+L1361: 2,265,243
+L1362: The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+L1363: 2
+L1364: Table of Contents
+L1365: CRISPR Therapeutics AG
+L1366: Condensed Consolidated Statements of
+L1367: Operations and Comprehensive Loss
+L1368: (unaudited, in thousands, except share and per share data)
+L1369: Three Months Ended
+L1370: Nine Months Ended
+L1371: September 30,
+L1372: September 30,
+L1373: 2026
+L1374: 2025
+L1375: 2026
+L1376: 2025
+L1377: Revenue:
+L1378: Collaboration revenue
+L1379: $
+L1380: 12,323
+L1381: $
+L1382: —
+L1383: $
+L1384: 23,323
+L1385: $
+L1386: —
+L1387: Grant revenue
+L1388: 346
+L1389: 889
+L1390: 985
+L1391: 2,646
+L1392: Total revenue
+L1393: 12,669
+L1394: 889
+L1395: 24,308
+L1396: 2,646
+L1397: Operating expenses:
+L1398: Research and development
+L1399: 71,888
+L1400: 58,902
+L1401: 207,614
+L1402: 201,280
+L1403: Acquired in-process research and development
+L1404: 11,675
+L1405: —
+L1406: 14,148
+L1407: 96,253
+L1408: General and administrative
+L1409: 17,867
+L1410: 16,931
+L1411: 52,603
+L1412: 55,143
+L1413: Collaboration expense, net
+L1414: 41,284
+L1415: 57,115
+L1416: 127,505
+L1417: 159,777
+L1418: Total operating expenses
+L1419: 142,714
+L1420: 132,948
+L1421: 401,870
+L1422: 512,453
+L1423: Loss from operations
+L1424: (
+L1425: 130,045
+L1426: )
+L1427: (
+L1428: 132,059
+L1429: )
+L1430: (
+L1431: 377,562
+L1432: )
+L1433: (
+L1434: 509,807
+L1435: )
+L1436: Other income:
+L1437: Other income, net
+L1438: 18,682
+L1439: 26,237
+L1440: 53,913
+L1441: 61,841
+L1442: Total other income, net
+L1443: 18,682
+L1444: 26,237
+L1445: 53,913
+L1446: 61,841
+L1447: Net loss before income taxes
+L1448: (
+L1449: 111,363
+L1450: )
+L1451: (
+L1452: 105,822
+L1453: )
+L1454: (
+L1455: 323,649
+L1456: )
+L1457: (
+L1458: 447,966
+L1459: )
+L1460: Provision for income taxes
+L1461: (
+L1462: 74
+L1463: )
+L1464: (
+L1465: 619
+L1466: )
+L1467: (
+L1468: 1,873
+L1469: )
+L1470: (
+L1471: 3,020
+L1472: )
+L1473: Net loss
+L1474: (
+L1475: 111,437
+L1476: )
+L1477: (
+L1478: 106,441
+L1479: )
+L1480: (
+L1481: 325,522
+L1482: )
+L1483: (
+L1484: 450,986
+L1485: )
+L1486: Foreign currency translation adjustment
+L1487: 2
+L1488: (
+L1489: 28
+L1490: )
+L1491: (
+L1492: 20
+L1493: )
+L1494: 94
+L1495: Unrealized (loss) gain on marketable securities
+L1496: (
+L1497: 9,456
+L1498: )
+L1499: 973
+L1500: (
+L1501: 18,884
+L1502: )
+L1503: 3,052
+L1504: Comprehensive loss
+L1505: $
+L1506: (
+L1507: 120,891
+L1508: )
+L1509: $
+L1510: (
+L1511: 105,496
+L1512: )
+L1513: $
+L1514: (
+L1515: 344,426
+L1516: )
+L1517: $
+L1518: (
+L1519: 447,840
+L1520: )
+L1521: Net loss per common share — basic
+L1522: $
+L1523: (
+L1524: 1.15
+L1525: )
+L1526: $
+L1527: (
+L1528: 1.17
+L1529: )
+L1530: $
+L1531: (
+L1532: 3.38
+L1533: )
+L1534: $
+L1535: (
+L1536: 5.12
+L1537: )
+L1538: Basic weighted-average common shares outstanding
+L1539: 96,741,070
+L1540: 91,305,337
+L1541: 96,437,995
+L1542: 88,124,241
+L1543: Net loss per common share — diluted
+L1544: $
+L1545: (
+L1546: 1.15
+L1547: )
+L1548: $
+L1549: (
+L1550: 1.17
+L1551: )
+L1552: $
+L1553: (
+L1554: 3.38
+L1555: )
+L1556: $
+L1557: (
+L1558: 5.12
+L1559: )
+L1560: Diluted weighted-average common shares outstanding
+L1561: 96,741,070
+L1562: 91,305,337
+L1563: 96,437,995
+L1564: 88,124,241
+L1565: The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+L1566: 3
+L1567: Table of Contents
+L1568: CRISPR Therapeutics AG
+L1569: Condensed Consolidated Statements of Shareholders’ Equity
+L1570: (unaudited, in thousands, except share and per share data)
+L1571: Common Shares
+L1572: Treasury Shares
+L1573: Shares
+L1574: CHF 0.03
+L1575: Nominal Value
+L1576: Shares
+L1577: Amount,
+L1578: at cost
+L1579: Additional
+L1580: Paid-in
+L1581: Capital
+L1582: Accumulated
+L1583: Deficit
+L1584: Accumulated
+L1585: Other
+L1586: Comprehensive
+L1587: Income/(Loss)
+L1588: Total
+L1589: Shareholders’
+L1590: Equity
+L1591: Balance at December 31, 2024
+L1592: 85,741,981
+L1593: $
+L1594: 2,698
+L1595: 170,316
+L1596: $
+L1597: (
+L1598: 62
+L1599: )
+L1600: $
+L1601: 3,293,556
+L1602: $
+L1603: (
+L1604: 1,365,952
+L1605: )
+L1606: $
+L1607: 1,840
+L1608: $
+L1609: 1,932,080
+L1610: Issuance of common stock, net of issuance costs of $
+L1611: 0.1
+L1612: million
+L1613: 162,482
+L1614: 5
+L1615: —
+L1616: —
+L1617: 8,632
+L1618: —
+L1619: —
+L1620: 8,637
+L1621: Vesting of restricted shares
+L1622: 396,943
+L1623: 15
+L1624: —
+L1625: —
+L1626: —
+L1627: —
+L1628: —
+L1629: 15
+L1630: Exercise of vested options, net of issuance costs of $
+L1631: 0.2
+L1632: million
+L1633: 39,996
+L1634: 3
+L1635: —
+L1636: —
+L1637: 1,261
+L1638: —
+L1639: —
+L1640: 1,264
+L1641: Purchase of common stock under ESPP
+L1642: 19,522
+L1643: —
+L1644: —
+L1645: —
+L1646: 653
+L1647: —
+L1648: —
+L1649: 653
+L1650: Stock-based compensation expense
+L1651: —
+L1652: —
+L1653: —
+L1654: —
+L1655: 20,212
+L1656: —
+L1657: —
+L1658: 20,212
+L1659: Other comprehensive income
+L1660: —
+L1661: —
+L1662: —
+L1663: —
+L1664: —
+L1665: —
+L1666: 2,295
+L1667: 2,295
+L1668: Net loss
+L1669: —
+L1670: —
+L1671: —
+L1672: —
+L1673: —
+L1674: (
+L1675: 135,996
+L1676: )
+L1677: —
+L1678: (
+L1679: 135,996
+L1680: )
+L1681: Balance at March 31, 2025
+L1682: 86,360,924
+L1683: $
+L1684: 2,721
+L1685: 170,316
+L1686: $
+L1687: (
+L1688: 62
+L1689: )
+L1690: $
+L1691: 3,324,314
+L1692: $
+L1693: (
+L1694: 1,501,948
+L1695: )
+L1696: $
+L1697: 4,135
+L1698: $
+L1699: 1,829,160
+L1700: Issuance of common stock, net of issuance costs of $
+L1701: 0.7
+L1702: million
+L1703: 1,842,105
+L1704: $
+L1705: 65
+L1706: $
+L1707: 70,540
+L1708: 70,605
+L1709: Vesting of restricted shares
+L1710: 104,941
+L1711: 5
+L1712: —
+L1713: —
+L1714: —
+L1715: —
+L1716: —
+L1717: 5
+L1718: Exercise of vested options, net of issuance costs of $
+L1719: 0.1
+L1720: million
+L1721: 68,469
+L1722: 3
+L1723: —
+L1724: —
+L1725: 2,388
+L1726: —
+L1727: —
+L1728: 2,391
+L1729: Stock-based compensation expense
+L1730: —
+L1731: —
+L1732: —
+L1733: —
+L1734: 17,607
+L1735: —
+L1736: —
+L1737: 17,607
+L1738: Other comprehensive loss
+L1739: —
+L1740: —
+L1741: —
+L1742: —
+L1743: —
+L1744: —
+L1745: (
+L1746: 94
+L1747: )
+L1748: (
+L1749: 94
+L1750: )
+L1751: Net loss
+L1752: —
+L1753: —
+L1754: —
+L1755: —
+L1756: —
+L1757: (
+L1758: 208,549
+L1759: )
+L1760: —
+L1761: (
+L1762: 208,549
+L1763: )
+L1764: Balance at June 30, 2025
+L1765: 88,376,439
+L1766: $
+L1767: 2,794
+L1768: 170,316
+L1769: $
+L1770: (
+L1771: 62
+L1772: )
+L1773: $
+L1774: 3,414,849
+L1775: $
+L1776: (
+L1777: 1,710,497
+L1778: )
+L1779: $
+L1780: 4,041
+L1781: $
+L1782: 1,711,125
+L1783: Issuance of common stock, net of issuance costs of $
+L1784: 6.5
+L1785: million
+L1786: 4,899,409
+L1787: $
+L1788: 198
+L1789: $
+L1790: 275,120
+L1791: 275,318
+L1792: Vesting of restricted shares
+L1793: 88,703
+L1794: 3
+L1795: —
+L1796: —
+L1797: —
+L1798: —
+L1799: —
+L1800: 3
+L1801: Exercise of vested options, net of issuance costs of $
+L1802: 0.3
+L1803: million
+L1804: 483,637
+L1805: 18
+L1806: (
+L1807: 45,000
+L1808: )
+L1809: 2
+L1810: 17,585
+L1811: —
+L1812: —
+L1813: 17,605
+L1814: Purchase of common stock under ESPP
+L1815: 24,606
+L1816: 823
+L1817: 823
+L1818: Stock-based compensation expense
+L1819: —
+L1820: —
+L1821: —
+L1822: —
+L1823: 16,604
+L1824: —
+L1825: —
+L1826: 16,604
+L1827: Other comprehensive income
+L1828: —
+L1829: —
+L1830: —
+L1831: —
+L1832: —
+L1833: —
+L1834: 945
+L1835: 945
+L1836: Net loss
+L1837: —
+L1838: —
+L1839: —
+L1840: —
+L1841: —
+L1842: (
+L1843: 106,441
+L1844: )
+L1845: —
+L1846: (
+L1847: 106,441
+L1848: )
+L1849: Balance at September 30, 2025
+L1850: 93,872,794
+L1851: $
+L1852: 3,013
+L1853: 125,316
+L1854: $
+L1855: (
+L1856: 60
+L1857: )
+L1858: $
+L1859: 3,724,981
+L1860: $
+L1861: (
+L1862: 1,816,938
+L1863: )
+L1864: $
+L1865: 4,986
+L1866: $
+L1867: 1,915,982
+L1868: 4
+L1869: Table of Contents
+L1870: Common Shares
+L1871: Treasury Shares
+L1872: Shares
+L1873: CHF 0.03
+L1874: Nominal Value
+L1875: Shares
+L1876: Amount,
+L1877: at cost
+L1878: Additional
+L1879: Paid-in
+L1880: Capital
+L1881: Accumulated
+L1882: Deficit
+L1883: Accumulated
+L1884: Other
+L1885: Comprehensive
+L1886: Income/(Loss)
+L1887: Total
+L1888: Shareholders’
+L1889: Equity
+L1890: Balance at December 31, 2025
+L1891: 95,894,341
+L1892: $
+L1893: 3,087
+L1894: 115,316
+L1895: $
+L1896: (
+L1897: 60
+L1898: )
+L1899: $
+L1900: 3,861,516
+L1901: $
+L1902: (
+L1903: 1,947,551
+L1904: )
+L1905: $
+L1906: 4,821
+L1907: $
+L1908: 1,921,813
+L1909: Vesting of restricted shares
+L1910: 349,508
+L1911: 22
+L1912: —
+L1913: —
+L1914: —
+L1915: —
+L1916: —
+L1917: 22
+L1918: Exercise of vested options, net of issuance costs of $
+L1919: 0.2
+L1920: million
+L1921: 130,231
+L1922: 6
+L1923: —
+L1924: —
+L1925: 5,613
+L1926: —
+L1927: —
+L1928: 5,619
+L1929: Purchase of common stock under ESPP
+L1930: 11,426
+L1931: —
+L1932: —
+L1933: —
+L1934: 471
+L1935: —
+L1936: —
+L1937: 471
+L1938: Stock-based compensation expense
+L1939: —
+L1940: —
+L1941: —
+L1942: —
+L1943: 16,324
+L1944: —
+L1945: —
+L1946: 16,324
+L1947: Other comprehensive loss
+L1948: —
+L1949: —
+L1950: —
+L1951: —
+L1952: —
+L1953: —
+L1954: (
+L1955: 6,762
+L1956: )
+L1957: (
+L1958: 6,762
+L1959: )
+L1960: Net loss
+L1961: —
+L1962: —
+L1963: —
+L1964: —
+L1965: —
+L1966: (
+L1967: 122,931
+L1968: )
+L1969: —
+L1970: (
+L1971: 122,931
+L1972: )
+L1973: Balance at March 31, 2026
+L1974: 96,385,506
+L1975: $
+L1976: 3,115
+L1977: 115,316
+L1978: $
+L1979: (
+L1980: 60
+L1981: )
+L1982: $
+L1983: 3,883,924
+L1984: $
+L1985: (
+L1986: 2,070,482
+L1987: )
+L1988: $
+L1989: (
+L1990: 1,941
+L1991: )
+L1992: $
+L1993: 1,814,556
+L1994: Vesting of restricted shares
+L1995: 79,626
+L1996: 9
+L1997: —
+L1998: —
+L1999: —
+L2000: —
+L2001: —
+L2002: 9
+L2003: Exercise of vested options, net of issuance costs of $
+L2004: 0.2
+L2005: million
+L2006: 195,827
+L2007: 6
+L2008: (
+L2009: 15,000
+L2010: )
+L2011: —
+L2012: 8,506
+L2013: —
+L2014: —
+L2015: 8,512
+L2016: Stock-based compensation expense
+L2017: —
+L2018: —
+L2019: —
+L2020: —
+L2021: 17,316
+L2022: —
+L2023: —
+L2024: 17,316
+L2025: Other comprehensive loss
+L2026: —
+L2027: —
+L2028: —
+L2029: —
+L2030: —
+L2031: —
+L2032: (
+L2033: 2,688
+L2034: )
+L2035: (
+L2036: 2,688
+L2037: )
+L2038: Net loss
+L2039: —
+L2040: —
+L2041: —
+L2042: —
+L2043: —
+L2044: (
+L2045: 91,154
+L2046: )
+L2047: —
+L2048: (
+L2049: 91,154
+L2050: )
+L2051: Balance at June 30, 2026
+L2052: 96,660,959
+L2053: $
+L2054: 3,130
+L2055: 100,316
+L2056: $
+L2057: (
+L2058: 60
+L2059: )
+L2060: $
+L2061: 3,909,746
+L2062: $
+L2063: (
+L2064: 2,161,636
+L2065: )
+L2066: $
+L2067: (
+L2068: 4,629
+L2069: )
+L2070: $
+L2071: 1,746,551
+L2072: Vesting of restricted shares
+L2073: 48,223
+L2074: 12
+L2075: —
+L2076: —
+L2077: —
+L2078: —
+L2079: —
+L2080: 12
+L2081: Exercise of vested options, net of issuance costs of $
+L2082: 0.1
+L2083: million
+L2084: 131,016
+L2085: 7
+L2086: (
+L2087: 25,000
+L2088: )
+L2089: —
+L2090: 3,746
+L2091: —
+L2092: —
+L2093: 3,753
+L2094: Purchase of common stock under ESPP
+L2095: 15,328
+L2096: —
+L2097: —
+L2098: —
+L2099: 682
+L2100: —
+L2101: —
+L2102: 682
+L2103: Stock-based compensation expense
+L2104: —
+L2105: —
+L2106: —
+L2107: —
+L2108: 17,961
+L2109: —
+L2110: —
+L2111: 17,961
+L2112: Other comprehensive loss
+L2113: —
+L2114: —
+L2115: —
+L2116: —
+L2117: —
+L2118: —
+L2119: (
+L2120: 9,454
+L2121: )
+L2122: (
+L2123: 9,454
+L2124: )
+L2125: Net loss
+L2126: —
+L2127: —
+L2128: —
+L2129: —
+L2130: —
+L2131: (
+L2132: 111,437
+L2133: )
+L2134: —
+L2135: (
+L2136: 111,437
+L2137: )
+L2138: Balance at September 30, 2026
+L2139: 96,855,526
+L2140: $
+L2141: 3,149
+L2142: 75,316
+L2143: $
+L2144: (
+L2145: 60
+L2146: )
+L2147: $
+L2148: 3,932,135
+L2149: $
+L2150: (
+L2151: 2,273,073
+L2152: )
+L2153: $
+L2154: (
+L2155: 14,083
+L2156: )
+L2157: $
+L2158: 1,648,068
+L2159: The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+L2160: 5
+L2161: Table of Contents
+L2162: CRISPR Therapeutics AG
+L2163: Condensed Consolidated S
+L2164: tatements of Cash Flows
+L2165: (unaudited, in thousands)
+L2166: Nine Months Ended September 30,
+L2167: 2026
+L2168: 2025
+L2169: Operating activities:
+L2170: Net loss
+L2171: $
+L2172: (
+L2173: 325,522
+L2174: )
+L2175: $
+L2176: (
+L2177: 450,986
+L2178: )
+L2179: Reconciliation of net loss to net cash used in operating activities:
+L2180: Depreciation and amortization
+L2181: 12,837
+L2182: 13,818
+L2183: Equity-based compensation
+L2184: 51,601
+L2185: 54,423
+L2186: Other non-cash items, net
+L2187: (
+L2188: 7,269
+L2189: )
+L2190: (
+L2191: 15,214
+L2192: )
+L2193: Amortization of debt issuance costs
+L2194: 1,584
+L2195: —
+L2196: Acquired in-process research and development
+L2197: 1,648
+L2198: 96,253
+L2199: Changes in:
+L2200: Accounts receivable
+L2201: —
+L2202: 25,000
+L2203: Prepaid expenses and other assets
+L2204: (
+L2205: 5,267
+L2206: )
+L2207: (
+L2208: 515
+L2209: )
+L2210: Accounts payable and accrued expenses
+L2211: 2,294
+L2212: 40,473
+L2213: Deferred revenue
+L2214: (
+L2215: 13,225
+L2216: )
+L2217: (
+L2218: 2,550
+L2219: )
+L2220: Operating lease assets and liabilities
+L2221: (
+L2222: 4,740
+L2223: )
+L2224: (
+L2225: 3,867
+L2226: )
+L2227: Other liabilities, net
+L2228: 3,980
+L2229: (
+L2230: 9,296
+L2231: )
+L2232: Net cash used in operating activities
+L2233: (
+L2234: 282,079
+L2235: )
+L2236: (
+L2237: 252,461
+L2238: )
+L2239: Investing activities:
+L2240: Purchases of property and equipment
+L2241: (
+L2242: 1,566
+L2243: )
+L2244: (
+L2245: 397
+L2246: )
+L2247: Investment in equity securities
+L2248: (
+L2249: 22,843
+L2250: )
+L2251: (
+L2252: 9,700
+L2253: )
+L2254: Purchases of in-process research and development
+L2255: (
+L2256: 1,648
+L2257: )
+L2258: (
+L2259: 25,000
+L2260: )
+L2261: Purchases of marketable securities
+L2262: (
+L2263: 1,273,686
+L2264: )
+L2265: (
+L2266: 745,197
+L2267: )
+L2268: Maturities of marketable securities
+L2269: 588,703
+L2270: 585,168
+L2271: Sales of marketable securities
+L2272: 230,552
+L2273: 126,122
+L2274: Net cash used in investing activities
+L2275: (
+L2276: 480,488
+L2277: )
+L2278: (
+L2279: 69,004
+L2280: )
+L2281: Financing activities:
+L2282: Proceeds from issuance of the Notes
+L2283: 600,000
+L2284: —
+L2285: Issuance costs and discounts associated with the Notes
+L2286: (
+L2287: 14,650
+L2288: )
+L2289: —
+L2290: (Payments) proceeds from issuance of common shares, net of issuance costs
+L2291: (
+L2292: 722
+L2293: )
+L2294: 286,599
+L2295: Proceeds from exercise of options and ESPP contributions, net of issuance costs
+L2296: 18,914
+L2297: 23,013
+L2298: Net cash provided by financing activities
+L2299: 603,542
+L2300: 309,612
+L2301: Effect of exchange rate changes on cash
+L2302: (
+L2303: 20
+L2304: )
+L2305: 94
+L2306: Decrease in cash
+L2307: (
+L2308: 159,045
+L2309: )
+L2310: (
+L2311: 11,759
+L2312: )
+L2313: Cash, cash equivalents and restricted cash, beginning of period
+L2314: 359,078
+L2315: 309,776
+L2316: Cash, cash equivalents and restricted cash, end of period
+L2317: $
+L2318: 200,033
+L2319: $
+L2320: 298,017
+L2321: Supplemental disclosure of non-cash investing and financing activities
+L2322: Equity issuance costs in accounts payable, accrued expenses, and other long-term liabilities
+L2323: $
+L2324: 3,955
+L2325: $
+L2326: 6,680
+L2327: Acquired in-process research and development expense related to issuance of common shares
+L2328: $
+L2329: —
+L2330: $
+L2331: 71,253
+L2332: As of September 30,
+L2333: Reconciliation to amounts within the condensed consolidated balance sheets
+L2334: 2026
+L2335: 2025
+L2336: Cash and cash equivalents
+L2337: $
+L2338: 192,027
+L2339: $
+L2340: 286,497
+L2341: Prepaid expenses and other current assets
+L2342: 377
+L2343: 3,514
+L2344: Restricted cash
+L2345: 7,629
+L2346: 8,006
+L2347: Cash, cash equivalents and restricted cash at end of period
+L2348: $
+L2349: 200,033
+L2350: $
+L2351: 298,017
+L2352: The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+L2353: 6
+L2354: Table of Contents
+L2355: CRISPR Therapeutics AG
+L2356: Notes to Condensed
+L2357: Consolidated Financial Statements
+L2358: (unaudited)
+L2359: 1. Basis of Presentation and Significant Accounting Policies
+L2360: Basis of Presentation
+L2361: The accompanying condensed consolidated financial statements are unaudited and have been prepared by the Company in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP.
+L2362: The accompanying condensed consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation. The Company views its operations and manages its business in
+L2363: one
+L2364: operating segment, which is the business of discovering, developing and commercializing therapies. Certain information and footnote disclosures normally included in the Company’s annual financial statements have been condensed or omitted. These interim financial statements, in the opinion of management, reflect all normal recurring adjustments necessary for a fair presentation of the financial position and results of operations for the three- and nine-month
+L2365: interim periods ended September 30, 2026 and 2025.
+L2366: Certain prior period amounts have been reclassified to conform to the current presentation. Specifically, the Company reclassified “Sales of marketable securities” in the condensed consolidated statements of cash flows, which were classified within “Maturities of marketable securities” in prior periods. As a result, no subtotals in the prior year condensed consolidated financial statements were impacted.
+L2367: The results of operations for the interim periods are not necessarily indicative of the results of operations to be expected for the full year. These interim financial statements should be read in conjunction with the audited financial statements for the year ended December 31, 2025, which are contained in the 2025 Annual Report on Form 10-K filed with the Securities and Exchange Commission, or the SEC, on February 12, 2026
+L2368: .
+L2369: Use of Estimates
+L2370: The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes. On an ongoing basis, the Company’s management evaluates its estimates, which include, but are not limited to, revenue recognition, equity-based compensation expense and reported amounts of expenses during the period. The Company bases its estimates on historical experience and other market-specific or other relevant assumptions that it believes to be reasonable under the circumstances. Actual results may differ from those estimates or assumptions. Changes in estimates are reflected in reported results in the period in which they become known.
+L2371: Significant Accounting Policies
+L2372: The significant accounting policies used in preparation of these condensed consolidated financial statements for the three and nine months ended September 30, 2026 are consistent with those discussed in Note 2 to the consolidated financial statements in the Company’s 2025 Annual Report on Form 10-K filed with the SEC on February 12, 2026, with the exception of the new policy below. Any reference in these notes to applicable guidance is meant to refer to the authoritative U.S. GAAP as found in the Accounting Standards Codification, or ASC, and Accounting Standards Updates, or ASUs, of the Financial Accounting Standards Board, or FASB.
+L2373: Convertible Debt
+L2374: The Company accounts for its convertible debt instruments as a single unit of accounting, a liability, as the Company concluded that the conversion features do not require bifurcation as a derivative under ASC Topic 815-15,
+L2375: Derivatives and Hedging
+L2376: , as the Company did not issue its convertible debt instruments at a substantial premium. The Company records debt issuance costs as contra-liabilities in its condensed consolidated balance sheets at issuance and amortizes debt issuance costs over the contractual term of the convertible debt instrument using the effective interest rate. The balance of the Company’s Notes (as defined below) presented in its condensed consolidated balance sheets represents the principal balance of the convertible debt instrument less unamortized debt issuance costs. Please refer to Note 8 of the notes to the condensed consolidated financial statements included in this Quarterly Report on Form 10-Q for further information.
+L2377: Recent Accounting Pronouncements
+L2378: In November 2024, the FASB issued ASU 2024-03,
+L2379: Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures
+L2380: , and in January 2025, the FASB issued ASU 2025-01,
+L2381: Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures: Clarifying the Effective Date.
+L2382: ASU
+L2383: 2024-03 requires disclosure of additional information about specific expense categories in the notes to the financial statements on an interim and annual basis. ASU 2024-03, as clarified by ASU 2025-01, is effective for fiscal years beginning after December 15, 2026, and for interim periods beginning after
+L2384: 7
+L2385: Table of Contents
+L2386: December
+L2387: 15, 2027, with early adoption permitted. The Company is currently evaluating the disclosure requirements related to this new standard.
+L2388: 2. Marketable Securities
+L2389: The following table summarizes cash equivalents and marketable securities held at
+L2390: September 30, 2026 and December 31, 2025 (in thousands), which are recorded at fair value. The table below excludes $
+L2391: 161.6
+L2392: million and $
+L2393: 295.4
+L2394: million of cash at September 30, 2026 and December 31, 2025, respectively.
+L2395: Amortized
+L2396: Cost
+L2397: Gross
+L2398: Unrealized
+L2399: Gains
+L2400: Gross
+L2401: Unrealized
+L2402: Losses
+L2403: Fair Value
+L2404: September 30, 2026
+L2405: Cash equivalents:
+L2406: Money market funds
+L2407: $
+L2408: 30,394
+L2409: $
+L2410: —
+L2411: $
+L2412: —
+L2413: $
+L2414: 30,394
+L2415: Total cash equivalents
+L2416: 30,394
+L2417: —
+L2418: —
+L2419: 30,394
+L2420: Marketable securities:
+L2421: Corporate debt securities
+L2422: 1,388,175
+L2423: 71
+L2424: (
+L2425: 10,862
+L2426: )
+L2427: 1,377,384
+L2428: Certificates and term deposits
+L2429: 322,236
+L2430: —
+L2431: —
+L2432: 322,236
+L2433: Government-sponsored enterprise securities
+L2434: 306,871
+L2435: 1
+L2436: (
+L2437: 3,332
+L2438: )
+L2439: 303,540
+L2440: Commercial paper
+L2441: 59,339
+L2442: —
+L2443: (
+L2444: 53
+L2445: )
+L2446: 59,286
+L2447: Total marketable debt securities
+L2448: 2,076,621
+L2449: 72
+L2450: (
+L2451: 14,247
+L2452: )
+L2453: 2,062,446
+L2454: Corporate equity securities
+L2455: 22,096
+L2456: Total marketable securities
+L2457: 2,084,542
+L2458: Total cash equivalents and marketable securities
+L2459: $
+L2460: 2,114,936
+L2461: December 31, 2025
+L2462: Cash equivalents:
+L2463: Money market funds
+L2464: $
+L2465: 37,255
+L2466: $
+L2467: —
+L2468: $
+L2469: —
+L2470: $
+L2471: 37,255
+L2472: Commercial paper
+L2473: 14,896
+L2474: —
+L2475: (
+L2476: 4
+L2477: )
+L2478: 14,892
+L2479: Total cash equivalents
+L2480: 52,151
+L2481: —
+L2482: (
+L2483: 4
+L2484: )
+L2485: 52,147
+L2486: Marketable securities:
+L2487: Corporate debt securities
+L2488: 1,152,319
+L2489: 3,827
+L2490: (
+L2491: 181
+L2492: )
+L2493: 1,155,965
+L2494: Certificates of deposit
+L2495: 101,100
+L2496: —
+L2497: —
+L2498: 101,100
+L2499: Government-sponsored enterprise securities
+L2500: 304,259
+L2501: 1,054
+L2502: (
+L2503: 15
+L2504: )
+L2505: 305,298
+L2506: Commercial paper
+L2507: 49,432
+L2508: 28
+L2509: —
+L2510: 49,460
+L2511: Total marketable debt securities
+L2512: 1,607,110
+L2513: 4,909
+L2514: (
+L2515: 196
+L2516: )
+L2517: 1,611,823
+L2518: Corporate equity securities
+L2519: 16,446
+L2520: Total marketable securities
+L2521: 1,628,269
+L2522: Total cash equivalents and marketable securities
+L2523: $
+L2524: 1,680,416
+L2525: Unrealized gains and losses on the Company’s marketable debt securities are included in comprehensive loss in the condensed consolidated statements of operations and comprehensive loss. Unrealized gains and losses due to the change in fair value of the Company’s marketable equity securities are included in other income (expense), net, in the condensed consolidated statements of operations and comprehensive loss.
+L2526: The following table summarizes other (expense) income recorded due to changes in the fair value of corporate equity securities held (in thousands):
+L2527: Three Months Ended
+L2528: Nine Months Ended
+L2529: September 30,
+L2530: September 30,
+L2531: 2026
+L2532: 2025
+L2533: 2026
+L2534: 2025
+L2535: Other (expense) income
+L2536: (
+L2537: 1,840
+L2538: )
+L2539: 5,523
+L2540: (
+L2541: 7,850
+L2542: )
+L2543: (
+L2544: 887
+L2545: )
+L2546: The following table summarizes the aggregate fair value of marketable debt securities that were in an unrealized loss position as of
+L2547: September 30, 2026 and December 31, 2025 by the length of time the security has been in a loss position (in thousands):
+L2548: 8
+L2549: Table of Contents
+L2550: September 30, 2026
+L2551: December 31, 2025
+L2552: Debt securities in an unrealized loss position for 12 months or less
+L2553: $
+L2554: 1,587,181
+L2555: $
+L2556: 193,841
+L2557: Debt securities in an unrealized loss position for more than 12 months
+L2558: 4,021
+L2559: —
+L2560: Total debt securities in an unrealized loss position
+L2561: $
+L2562: 1,591,202
+L2563: $
+L2564: 193,841
+L2565: The Company determined that there is no material credit risk associated with the above investments as of September 30, 2026. The Company has the intent and ability to hold such securities until recovery. As a result, the Company did not record any charges for credit-related impairments for its marketable securities for the three and nine months ended September 30, 2026 and 2025
+L2566: .
+L2567: No
+L2568: available-for-sale debt securities held as of
+L2569: September 30, 2026 had remaining maturities greater than thirty-six months.
+L2570: Equity Investments Without Readily Determinable Fair Value
+L2571: The Company holds investments in privately-held companies in the form of equity securities without readily determinable fair values i
+L2572: n which the Company does not have a controlling interest or significant influence. These investments had a carrying value of $
+L2573: 31.9
+L2574: million and $
+L2575: 22.6
+L2576: million as of
+L2577: September 30, 2026 and December 31, 2025, respectively, and are classified within other non-current assets on the condensed consolidated balance sheets.
+L2578: As of September 30, 2026, certain equity securities no longer qualified as equity securities without readily determinable fair value and, as of September 30, 2026, these securities were measured at fair value. Upward and downward adjustments for observable price changes or impairment for the three and nine months ended September 30, 2026 for these equity securities were not material. There were no upward or downward adjustments for observable price changes or impairment charges recorded for the three and nine months ended September 30, 2025 related to these equity securities.
+L2579: 3. Fair Value Measurements
+L2580: The following tables present information about the Company’s financial assets measured at fair value on a recurring basis and indicate the fair value hierarchy classification of such fair values as of
+L2581: September 30, 2026 and December 31, 2025 (in thousands):
+L2582: Fair Value Measurements at
+L2583: September 30, 2026
+L2584: Total
+L2585: Level 1
+L2586: Level 2
+L2587: Level 3
+L2588: Cash and cash equivalents:
+L2589: Cash
+L2590: $
+L2591: 161,633
+L2592: $
+L2593: 161,633
+L2594: $
+L2595: —
+L2596: $
+L2597: —
+L2598: Money market funds
+L2599: 30,394
+L2600: 30,394
+L2601: —
+L2602: —
+L2603: Marketable securities:
+L2604: Corporate debt securities
+L2605: 1,377,384
+L2606: —
+L2607: 1,377,384
+L2608: —
+L2609: Certificates and term deposits
+L2610: 322,236
+L2611: —
+L2612: 322,236
+L2613: —
+L2614: Government-sponsored enterprise securities
+L2615: 303,540
+L2616: —
+L2617: 303,540
+L2618: —
+L2619: Commercial paper
+L2620: 59,286
+L2621: —
+L2622: 59,286
+L2623: —
+L2624: Corporate equity securities
+L2625: 22,096
+L2626: 17,437
+L2627: 4,659
+L2628: —
+L2629: Total
+L2630: $
+L2631: 2,276,569
+L2632: $
+L2633: 209,464
+L2634: $
+L2635: 2,067,105
+L2636: $
+L2637: —
+L2638: Fair Value Measurements at
+L2639: December 31, 2025
+L2640: Total
+L2641: Level 1
+L2642: Level 2
+L2643: Level 3
+L2644: Cash and cash equivalents:
+L2645: Cash
+L2646: $
+L2647: 295,412
+L2648: $
+L2649: 295,412
+L2650: $
+L2651: —
+L2652: $
+L2653: —
+L2654: Money market funds
+L2655: 37,255
+L2656: 37,255
+L2657: —
+L2658: —
+L2659: Commercial paper
+L2660: 14,892
+L2661: —
+L2662: 14,892
+L2663: —
+L2664: Marketable securities:
+L2665: Corporate debt securities
+L2666: 1,155,965
+L2667: —
+L2668: 1,155,965
+L2669: —
+L2670: Certificates of deposit
+L2671: 101,100
+L2672: —
+L2673: 101,100
+L2674: —
+L2675: Government-sponsored enterprise securities
+L2676: 305,298
+L2677: —
+L2678: 305,298
+L2679: —
+L2680: Commercial paper
+L2681: 49,460
+L2682: —
+L2683: 49,460
+L2684: —
+L2685: Corporate equity securities
+L2686: 16,446
+L2687: —
+L2688: 16,446
+L2689: —
+L2690: Total
+L2691: $
+L2692: 1,975,828
+L2693: $
+L2694: 332,667
+L2695: $
+L2696: 1,643,161
+L2697: $
+L2698: —
+L2699: Marketable securities classified as Level 1 within the valuation hierarchy consist of corporate equity securities with quoted prices in active markets. Marketable securities classified as Level 2 within the valuation hierarchy generally consist of U.S. treasury securities and government agency securities, certificates of deposit, corporate bonds, commercial paper and warrants to purchase
+L2700: 9
+L2701: Table of Contents
+L2702: common shares of publicly traded companies. The Company estimates the fair value of these marketable securities by taking into consideration valuations obtained from third-party pricing sources.
+L2703: Notes
+L2704: The fair value of the Company’s Convertible Senior Notes due 2031, or the Notes, which differs from their respective carrying values, is determined by prices for the Notes observed in market trading and classified as Level 2 within the valuation hierarchy. The Notes are described in further detail in Note 8 of the notes to the condensed consolidated financial statements included in this Quarterly Report on Form 10-Q.
+L2705: The following table presents the aggregate face values and the fair values of the Notes, based on their market prices on the last trading day for the periods presented (in thousands):
+L2706: September 30, 2026
+L2707: December 31, 2025
+L2708: Aggregate Face Values
+L2709: Estimated Fair Values
+L2710: Aggregate Face Values
+L2711: Estimated Fair Values
+L2712: Notes
+L2713: $
+L2714: 600,000
+L2715: $
+L2716: 629,868
+L2717: $
+L2718: —
+L2719: $
+L2720: —
+L2721: 4. Property and Equipment, net
+L2722: Property and equipment, net, consists of the following (in thousands):
+L2723: As of
+L2724: September 30,
+L2725: December 31,
+L2726: 2026
+L2727: 2025
+L2728: Computer equipment
+L2729: $
+L2730: 4,253
+L2731: $
+L2732: 4,152
+L2733: Furniture, fixtures and other
+L2734: 8,554
+L2735: 8,554
+L2736: Laboratory equipment
+L2737: 44,949
+L2738: 43,575
+L2739: Leasehold improvements
+L2740: 146,790
+L2741: 146,667
+L2742: Construction work in process
+L2743: 3,550
+L2744: 3,955
+L2745: Total property and equipment, gross
+L2746: 208,096
+L2747: 206,903
+L2748: Accumulated depreciation
+L2749: (
+L2750: 103,801
+L2751: )
+L2752: (
+L2753: 91,052
+L2754: )
+L2755: Total property and equipment, net
+L2756: $
+L2757: 104,295
+L2758: $
+L2759: 115,851
+L2760: Depreciation expense for the three and nine months ended September 30, 2026 was $
+L2761: 4.2
+L2762: million and $
+L2763: 12.8
+L2764: million, respectively. Depreciation expense for the three and nine months ended September 30, 2025 was $
+L2765: 4.4
+L2766: million and $
+L2767: 13.8
+L2768: million, respectively.
+L2769: 5. Accrued Expenses
+L2770: Accrued expenses consist of the following (in thousands):
+L2771: As of
+L2772: September 30,
+L2773: December 31,
+L2774: 2026
+L2775: 2025
+L2776: Payroll and employee-related costs
+L2777: $
+L2778: 11,432
+L2779: $
+L2780: 12,966
+L2781: Research costs
+L2782: 12,836
+L2783: 16,247
+L2784: Acquired in-process research and development costs
+L2785: 12,500
+L2786: —
+L2787: Collaboration costs
+L2788: 39,493
+L2789: 53,567
+L2790: Licensing fees
+L2791: 1,014
+L2792: 874
+L2793: Professional fees
+L2794: 3,316
+L2795: 3,749
+L2796: Intellectual property costs
+L2797: 903
+L2798: 1,382
+L2799: Other
+L2800: 524
+L2801: 622
+L2802: Total
+L2803: $
+L2804: 82,018
+L2805: $
+L2806: 89,407
+L2807: 6. Significant Contracts
+L2808: Agreements with Vertex
+L2809: For purposes of this Note 6 and Note 7, CASGEVY (exagamglogene autotemcel [exa-cel]) is referred to as “CASGEVY”.
+L2810: 2015 collaboration
+L2811: In 2015, the Company entered into a strategic collaboration, option and license agreement, or the 2015 Collaboration Agreement, with Vertex Pharmaceuticals Incorporated, or Vertex. The 2015 Collaboration Agreement is focused on the use of the Company’s CRISPR/Cas9 gene editing technology to discover and develop potential new treatments aimed at the underlying genetic causes of human disease. The Company and Vertex amended the 2015 Collaboration Agreement in 2017 and 2019 with Amendment
+L2812: 10
+L2813: Table of Contents
+L2814: No. 1 and Amendment No. 2, respectively, namely to clarify Vertex’s option rights under the 2015 Collaboration Agreement and to modify certain definitions and provisions of the 2015 Collaboration Agreement to make them consistent with the JDA (as defined below) and a strategic collaboration and license agreement from 2019 for the development and commercialization of products for the treatment of Duchenne muscular dystrophy, or DMD, and myotonic dystrophy type 1, or DM1. In 2017, Vertex exercised an option granted to it under the 2015 Collaboration Agreement to obtain a co-exclusive license to develop and commercialize hemoglobinopathy and beta-globin targets, and in 2019, Vertex exercised the remaining options granted to it under the 2015 Collaboration Agreement to exclusively license certain collaboration targets developed under the 2015 Collaboration Agreement.
+L2815: Hemoglobinopathies collaboration
+L2816: In 2017, following Vertex’s exercise of its option to obtain a co-exclusive license to develop and commercialize hemoglobinopathy and beta-globin targets, the Company and Vertex entered into a joint development and commercialization agreement, or the JDA, and agreed for potential hemoglobinopathy treatments, including CASGEVY, the Company and Vertex would share equally all research and development costs and worldwide revenues. I
+L2817: n 2021, the Company and Vertex amended and restated the JDA, as amended and in effect from time to time, or the A&R Vertex JDCA, pursuant to which the parties agreed to, among other things, (a) adjust the governance structure for the collaboration and adjust the responsibilities of each party thereunder, whereby Vertex leads and has all decision making (i.e., control) in relation to the CASGEVY program prospectively; (b) adjust the allocation of net profits and net losses between the parties with respect to CASGEVY only, which will be allocated
+L2818: 40
+L2819: % to the Company and
+L2820: 60
+L2821: % to Vertex, prospectively; and (c) exclusively license (subject to the Company’s reserved rights to conduct certain activities) certain intellectual property rights to Vertex relating to the specified product candidates and products (including CASGEVY) that may be researched, developed, manufactured and commercialized on a worldwide basis under the A&R Vertex JDCA. Additionally, for 2022, 2023, and 2024, the Company had an option to defer a portion of its share of costs under the A&R Vertex JDCA if spending on the CASGEVY program exceeded specified amounts. Any deferred amounts under the A&R Vertex JDCA are only payable to Vertex as an offset against future profitability of the CASGEVY program and the amounts payable are capped at a specified maximum amount per year.
+L2822: In December 2023, the Company entered into an amendment to the A&R Vertex JDCA, or Amendment No. 1 to the A&R Vertex JDCA, with Vertex related to the global development, manufacturing, and commercialization of CASGEVY. Pursuant to Amendment No. 1 to the A&R Vertex JDCA, among other things, the Company and Vertex agreed to (a) allocate certain costs arising from a license agreement with a third party, resulting in a payment to Vertex by the Company of $
+L2823: 20.0
+L2824: million upon an event specified in Amendment No. 1 to the A&R Vertex JDCA, and (b) adjust, under certain specified circumstances, the timing of and portion of the Company’s share of costs it is permitted to defer under the agreement.
+L2825: Letter Agreement
+L2826: In May 2024, Vertex and the Company entered into a letter agreement, or the Letter Agreement, with respect to the priority review voucher issued by the U.S. Food and Drug Administration to Vertex as the sponsor of the rare pediatric disease product application for CASGEVY. Vertex and the Company agreed that if Vertex utilizes or transfers the priority review voucher prior to the first calendar year in which the CASGEVY program generates a net profit, Vertex will pay the Company $
+L2827: 43.0
+L2828: million or an amount equal to
+L2829: 42
+L2830: % of the net proceeds from such transfer, as applicable. If the CASGEVY program begins generating calendar-year net profits prior to such utilization or transfer, Vertex will instead pay the Company up to $
+L2831: 43.0
+L2832: million set-off by deductions Vertex would otherwise be eligible to take against the CASGEVY program’s net profits due to the Company related to amounts deferred previously by the Company.
+L2833: Collaboration in the field of diabetes
+L2834: In 2021, the Company and ViaCyte, Inc., or ViaCyte, entered into a joint development and commercialization agreement, as amended and in effect from time to time, or the ViaCyte JDCA, to jointly develop and commercialize product candidates and shared products for the diagnosis, treatment or prevention of diabetes type 1, diabetes type 2 or insulin dependent / requiring diabetes throughout the world. In the third quarter of 2022, Vertex acquired ViaCyte, and ViaCyte became a wholly-owned subsidiary of Vertex. In March 2023, (1) the Company and ViaCyte entered into an amendment to the ViaCyte JDCA, or the ViaCyte JDCA Amendment, and adjusted certain rights and obligations of the Company and ViaCyte under the ViaCyte JDCA, and (2) the Company and Vertex entered into a non-exclusive license agreement, or the Non-Ex License Agreement, pursuant to which the Company agreed to license to Vertex, on a non-exclusive basis, certain of its gene editing intellectual property to exploit certain products for the diagnosis, treatment or prevention of diabetes type 1, diabetes type 2 or insulin dependent / requiring diabetes throughout the world. Subsequently, ViaCyte elected to opt-out of the ViaCyte JDCA. Per the opt-out terms, the on-going collaboration assets are now wholly owned by the Company, subject to a royalty on future sales owed to ViaCyte. The opt-out became effective in early February 2024.
+L2835: Accounting Analysis
+L2836: For purposes of this Note 6, the 2015 Collaboration Agreement, Amendment No. 1, Amendment No. 2, A&R Vertex JDCA, and Amendment No. 1 to the A&R Vertex JDCA are collectively referred to as the “Vertex Hemoglobinopathy Agreements” and the Non-Ex License Agreement and ViaCyte JDCA Amendment are collectively referred to as the “March 2023 Diabetes Agreements.”
+L2837: 11
+L2838: Table of Contents
+L2839: The Vertex Hemoglobinopathy Agreements and the March 2023 Diabetes Agreements include components of a customer-vendor relationship as defined under ASC 606,
+L2840: Revenue from Contracts with Customers
+L2841: ,
+L2842: or ASC 606, collaborative arrangements as defined under ASC 808,
+L2843: Collaborative Agreements
+L2844: , or ASC 808, and research and development costs as defined under ASC 730,
+L2845: Research and Development
+L2846: , or ASC 730. Specifically, with regard to the March 2023 Diabetes Agreements, the Company concluded that the non-exclusive license is a performance obligation under ASC 606 and the ongoing research and development services under the ViaCyte JDCA Amendment are a unit of account under ASC 808.
+L2847: The Company has determined that recognition criteria for the Letter Agreement has not been met and will not be met until the priority review voucher is (i) utilized or (ii) there is sufficient profitability such that Vertex is obligated to pay the Company under the Letter Agreement.
+L2848: Accounting Analysis Under ASC 606
+L2849: Accounting for the Vertex Hemoglobinopathy Agreements
+L2850: Recognition of Revenue
+L2851: No
+L2852: revenue was recognized under the Vertex Hemoglobinopathy Agreements for the
+L2853: three and nine months ended September 30, 2026 and 2025.
+L2854: Milestones under the Vertex Hemoglobinopathy Agreements
+L2855: The Company has evaluated the milestones that may be received in connection with the Vertex Hemoglobinopathy
+L2856: Agreements.
+L2857: Under the 2015 Collaboration Agreement and subsequent amendments, the Company is eligible to receive up to $
+L2858: 410.0
+L2859: million in additional development, regulatory and commercial milestones and royalties on net product sales for each of the three collaboration targets that Vertex licensed in 2019. Each milestone is payable only once per collaboration target, regardless of the number of products directed to such collaboration target that achieve the relevant milestone event.
+L2860: The Company has the option to conduct research at its own cost in certain defined areas. If such research is beneficial to the CASGEVY program and CASGEVY ultimately achieves regulatory approval in such areas, the Company could be entitled to receive from Vertex certain milestone payments aggregating to high eight digits.
+L2861: Each of the remaining milestones described above are fully constrained as of September 30, 2026. There is uncertainty as to whether the events to obtain the research and developmental milestones will be achieved given the nature of clinical development and the stage of the CRISPR/Cas9 technology. The remaining research, development and regulatory milestones will be constrained until it is probable that a significant revenue reversal will not occur. Commercial milestones and royalties relate predominantly to a license of intellectual property and are determined by sales or usage-based thresholds. The commercial milestones and royalties are accounted for under the royalty recognition constraint and will be accounted for as constrained variable consideration. The Company applies the royalty recognition constraint for each commercial milestone and will not recognize revenue for each until the subsequent sale of a licensed product (achievement of each) occurs.
+L2862: Accounting Analysis under ASC 808
+L2863: Vertex Hemoglobinopathy Agreements
+L2864: In connection with the Vertex Hemoglobinopathy Agreements, the Company continues to account for development and commercialization services for shared products under ASC 808. The related impact of the cost sharing under the Vertex Hemoglobinopathy Agreements is included within collaboration expense, net, in the condensed consolidated statements of operations and comprehensive loss.
+L2865: During the three and nine months ended September 30, 2026
+L2866: , the Company recognized $
+L2867: 41.3
+L2868: million and $
+L2869: 127.5
+L2870: million, respectively, of collaboration expense, net, related to the Vertex Hemoglobinopathy Agreements.
+L2871: Collaboration expense, net, during the three and nine months ended September 30, 2026
+L2872: was net of $
+L2873: 4.0
+L2874: million and $
+L2875: 8.2
+L2876: million
+L2877: , respectively, of reimbursements from Vertex. During the three and nine months ended September 30, 2025
+L2878: , the Company recognized $
+L2879: 57.1
+L2880: million and $
+L2881: 159.8
+L2882: million of collaboration expense, net, respectively. Collaboration expense, net, during the
+L2883: three and nine months ended September 30, 2025
+L2884: was net of $
+L2885: 0.4
+L2886: million and $
+L2887: 1.1
+L2888: million of reimbursements from Vertex, respectively.
+L2889: Additional Accounting Considerations
+L2890: The Company is eligible to receive potential future payments of up to $
+L2891: 775.0
+L2892: million upon the successful achievement of specified development, regulatory and commercial milestones under a strategic collaboration and license agreement from 2019 for the development and commercialization of products for the treatment of DMD and DM1. The Company is also eligible to receive tiered royalties on future net sales on any products that may result from this collaboration; however, the Company has the option to forego the DM1 milestones and royalties to co-develop and co-commercialize all DM1 products globally.
+L2893: Each of the remaining milestones under the strategic collaboration and license agreement from 2019 for the development and commercialization of products for the treatment of DMD and DM1 are fully constrained as of September 30, 2026. There is uncertainty that the events to obtain the research and developmental milestones will be achieved given the nature of clinical
+L2894: 12
+L2895: Table of Contents
+L2896: development and the stage of the CRISPR/Cas9 technology. The remaining research, development and regulatory milestones will be constrained until it is probable that a significant revenue reversal will not occur. Commercial milestones and royalties relate predominantly to a license of intellectual property and are determined by sales or usage-based thresholds. The commercial milestones and royalties are accounted for under the royalty recognition constraint and will be accounted for as constrained variable consideration. The Company applies the royalty recognition constraint for each commercial milestone and will not recognize revenue for each until the subsequent sale of a licensed product (achievement of each) occurs.
+L2897: During the three and nine months ended September 30, 2026
+L2898: , the Company recognized $
+L2899: 12.3
+L2900: million of previously deferred collaboration revenue related to the notification from Vertex during the third quarter of 2026 that it will not exercise an option granted under an amendment to the 2015 Collaboration Agreement to co-develop and co-commercialize a specified target. As of
+L2901: September 30, 2026
+L2902: , there was no current deferred revenue related to Vertex, compared to $
+L2903: 12.3
+L2904: million in current deferred revenue related to Vertex as of
+L2905: December 31, 2025. All of the performance obligations allocated to the transaction price under the 2015 Collaboration Agreement have been satisfied.
+L2906: As of September 30, 2026
+L2907: , the Company is eligible to receive potential future milestone payments from Vertex of up to $
+L2908: 125.0
+L2909: million in the aggregate under the Non-Ex License Agreement depending on the achievement of pre-determined research, development and commercial milestones for certain products utilizing the licensed intellectual property. Additionally, the Company is eligible to receive tiered royalties on the sales of certain products in the low to mid-single digits.
+L2910: Each of the remaining milestones under the Non-Ex License Agreement are fully constrained as of September 30, 2026. There is uncertainty as to whether the events to obtain the research and developmental milestones will be achieved given the nature of clinical development and the stage of the CRISPR/Cas9 technology. The remaining research, development and regulatory milestones will be constrained until it is probable that a significant revenue reversal will not occur. Commercial milestones and royalties relate predominantly to a license of intellectual property and are determined by sales or usage-based thresholds. The commercial milestones and royalties are accounted for under the royalty recognition constraint and will be accounted for as constrained variable consideration. The Company applies the royalty recognition constraint for each commercial milestone and will not recognize revenue for each until the subsequent sale of a licensed product (achievement of each) occurs.
+L2911: Agreement with Sirius Therapeutics
+L2912: In May 2025, the Company entered into a collaboration, option and license agreement, or the Sirius Agreement, with Sirius Therapeutics and certain of its affiliates, or Sirius, pursuant to which, among other things, (1) Sirius and the Company will collaborate on the research, development, manufacture, commercialization and use of certain collaboration products utilizing Sirius’ siRNA technology for targeting Factor XI, including CTX611, collectively, the Sirius Collaboration Products; and (2) Sirius granted to the Company options to exclusively license Sirius siRNA technology to target up to two licensed targets from a list of seven reserved targets for the research, development, manufacture and commercialization of licensed products, collectively the siRNA Licensed Products, in exchange for the potential to receive certain option fees, milestone payments and royalties.
+L2913: In connection with entering into the Sirius Agreement, the Company made an upfront cash payment to Sirius of $
+L2914: 25.0
+L2915: million and
+L2916: also entered into a share issuance agreement with Sirius, pursuant to which the Company
+L2917: registered and issued to Sirius
+L2918: 1,842,105
+L2919: common shares, nominal value CHF
+L2920: 0.03
+L2921: per share, or common shares, equal to approximately $
+L2922: 70.0
+L2923: million based on a price per common share equal to $
+L2924: 38.00
+L2925: , or the Sirius Shares.
+L2926: With respect to Sirius Collaboration Products, the Company and Sirius will share equally all development and commercialization costs. For the first Sirius Collaboration Product successfully developed, the Company will be the lead party responsible for Phase 3 global development and commercialization efforts in the United States and Sirius will be the lead party responsible for Phase 3 development (subject to the global development plan) and commercialization efforts in Greater China. The parties will determine the lead party responsible for commercialization in the rest of the world at a future date. The Company and Sirius will share equally net profits and net losses incurred under the Sirius Agreement with respect to all Sirius Collaboration Products, except in the event that a party opts out of the joint development and commercialization
+L2927: . The Company will pay Sirius certain specified future development and regulatory milestones of up to an aggregate of $
+L2928: 87.5
+L2929: million for the first Sirius Collaboration Product
+L2930: to achieve the applicable milestone events
+L2931: . In the third quarter of 2026, the Company recognized a $
+L2932: 12.5
+L2933: million development milestone payable to Sirius as acquired in-process research and development expense in the condensed consolidated statements of operations and comprehensive loss, resulting in remaining potential milestones of up to an aggregate of $
+L2934: 75.0
+L2935: million for the first Sirius Collaboration Product to achieve the applicable milestone events.
+L2936: At the Company’s sole election, such milestone payments may be paid in cash, common shares of the Company, or a combination thereof. The Company expects to make a cash payment to Sirius for the aforementioned $
+L2937: 12.5
+L2938: million development milestone in the fourth quarter of 2026.
+L2939: With respect to the siRNA Licensed Products, if the Company elects to exercise its option to a licensed target to research, develop, manufacture and commercialize siRNA Licensed Products, the Company will make a one-time $
+L2940: 10.0
+L2941: million payment per option exercise, each, a Sirius Option Payment, to Sirius. The Sirius Option Payment is payable up to two times. In addition, the Company will pay Sirius certain specified future development, regulatory and sales milestones of up to an aggregate of $
+L2942: 300.0
+L2943: million for the first siRNA Licensed Product relating to each licensed target
+L2944: to achieve the applicable milestone events, as well as tiered royalty payments in the mid-single digits to low double digits range on future sales of a commercialized siRNA Licensed Product. The royalty payments are subject to reduction under certain specified conditions set forth in the Sirius Agreement. In addition, at the
+L2945: 13
+L2946: Table of Contents
+L2947: Company’s sole election, such milestones may be paid in cash, common shares of the Company, or a combination thereof. The Company is solely responsible for all research, development, manufacturing and global commercialization activities and associated costs for the siRNA Licensed Products, as well as all associated costs related to Sirius activities set forth in any applicable research plan relating thereto.
+L2948: Accounting for the Sirius Agreement
+L2949: The Sirius Agreement includes components of collaborative arrangements as defined under ASC 808 and research and development costs as defined under ASC 730.
+L2950: Specifically, development and commercialization costs for the Sirius Collaboration Products contain collaborative elements accounted for under ASC 808, and the related impact of cost sharing for the Sirius Collaboration Products under the Sirius Agreement is included within research and development expenses in the condensed consolidated statements of operations and comprehensive loss. Costs related to siRNA Licensed Products under the Sirius Agreement are included within research and development expenses in the consolidated statement of operations and comprehensive loss.
+L2951: Research and development costs under the Sirius Agreement related to the Sirius Collaboration Products were $
+L2952: 5.4
+L2953: million and $
+L2954: 10.4
+L2955: million for the
+L2956: three and nine months ended September 30, 2026
+L2957: , respectively, and were net of $
+L2958: 0.6
+L2959: million and $
+L2960: 1.3
+L2961: million in reimbursements from Sirius, respectively. Research and development costs under the Sirius Agreement related to the siRNA Licensed Products were not material for the
+L2962: three and nine months ended September 30, 2026. Research and development costs under the Sirius Agreement were not material for the three and nine months ended September 30, 2025
+L2963: .
+L2964: 7. Commitments and Contingencies
+L2965: Leases
+L2966: Refer to Note 7 to the consolidated financial statements in the Company’s 2025 Annual Report on Form 10-K filed with the SEC on February 12, 2026 for discussion of the Company’s lease arrangements.
+L2967: Litigation
+L2968: In the ordinary course of business, the Company is or has been from time to time involved in lawsuits, investigations, proceedings and threats of litigation related to, among other things, the Company’s intellectual property estate (including certain in-licensed intellectual property), commercial arrangements and other matters. Such proceedings may include quasi-litigation,
+L2969: inter partes
+L2970: administrative proceedings in the U.S. Patent and Trademark Office and the European Patent Office or patent offices in other countries, involving the Company’s intellectual property estate including certain in-licensed intellectual property. For example, in the fourth quarter of 2025, ToolGen, Inc., or ToolGen, initiated a lawsuit against the Company and other third parties alleging patent infringement by CASGEVY of a ToolGen patent relating to CRISPR/Cas9 gene editing technology. The Company was subsequently dismissed from the lawsuit as a defendant in April 2026 without prejudice. The outcome of any of the foregoing is inherently uncertain. In addition, litigation and related matters are costly and may divert the attention of Company’s management and other resources that would otherwise be engaged in other activities. If the Company is unable to prevail in any such proceedings, the Company’s business, results of operations, liquidity and financial condition could be adversely affected.
+L2971: Letters of Credit
+L2972: The Company had restricted cash of $
+L2973: 8.0
+L2974: million and $
+L2975: 11.5
+L2976: million as of
+L2977: September 30, 2026 and December 31, 2025, respectively, representing letters of credit securing the Company’s obligations under certain leased facilities. The letters of credit are secured by cash held in a restricted depository account, with
+L2978: $
+L2979: 0.4
+L2980: million and $
+L2981: 3.9
+L2982: million included in “Prepaid expenses and other current assets” and $
+L2983: 7.6
+L2984: million included in “Restricted cash” on the Company’s condensed consolidated balance sheets as of
+L2985: September 30, 2026 and December 31, 2025, respectively.
+L2986: Research, Manufacturing, License and Intellectual Property Agreements
+L2987: The Company has engaged several research institutions and companies to identify new delivery strategies and applications of the Company’s gene editing technology. The Company is also a party to a number of license agreements which require significant upfront payments and may be required to make future royalty payments and potential milestone payments from time to time. In addition, the Company is also a party to intellectual property agreements, which require maintenance and milestone payments from time to time. Further, the Company is a party to a number of manufacturing agreements that require upfront payments for the future performance of services.
+L2988: In connection with these agreements, on a product-by-product basis, the counterparties are eligible to receive up to low eight-digit potential payments upon specified research, development and regulatory milestones. In addition, on a product-by-product basis, the counterparties are eligible to receive potential commercial milestone payments based on specified annual sales thresholds. The potential payments are low single-digit percentages of the specified annual sales thresholds. The counterparties are also eligible to receive low single-digit royalties on future net sales.
+L2989: 14
+L2990: Table of Contents
+L2991: In 2025, a third-party licensor formally engaged with the Company regarding certain matters under its intellectual property contracts with the Company that may lead to further actions that could result in additional amounts being owed by the Company to such third party. The Company determined that it was probable that a loss was incurred as of December 31, 2025 and, based on the Company’s best estimate of the loss, the Company recorded incremental research and development expenses of $
+L2992: 13.0
+L2993: million in the fourth quarter of 2025. The total liability associated with the contingent loss as of December 31, 2025 was $
+L2994: 14.5
+L2995: million. The Company reassessed the liability in 2026 and recorded incremental research and development expenses of $
+L2996: 3.8
+L2997: million in the second quarter of 2026. The total liability associated with the contingent loss as of
+L2998: September 30, 2026
+L2999: was $
+L3000: 18.2
+L3001: million. The liability is primarily included within other current liabilities on the condensed consolidated balance sheets as of
+L3002: September 30, 2026 and December 31, 2025. The Company is unable to provide an estimate of a range of loss, and the ultimate resolution of the matter could result in a material charge in excess of the amount accrued as of September 30, 2026. The Company will reassess the contingent liability and matters relating thereto as necessary or appropriate.
+L3003: Vertex is eligible to receive up to $
+L3004: 395.0
+L3005: million in potential specified research, development, regulatory and commercial milestones and tiered single-digit percentage royalties on future net sales related to a specified target under an amendment to the 2015 Collaboration Agreement (as such term is defined in
+L3006: Note 6 of the notes to our unaudited condensed consolidated financial statements included in this Quarterly Report on Form 10-Q). In addition, Vertex has the option to conduct research at its own cost in certain defined areas that, if beneficial to a program under the Vertex Hemoglobinopathy Agreements and the applicable product ultimately achieves regulatory approval, could result in the Company owing Vertex certain milestone payments aggregating to high eight digits, subject to certain limitations on the profitability of the program.
+L3007: Under the A&R Vertex JDCA for 2022, 2023 and 2024, the Company had an option to defer a portion of its share of costs if spending on the CASGEVY program exceeded specified amounts, which the Company exercised in each such year, resulting in deferred costs of $
+L3008: 221.8
+L3009: million, in the aggregate. Any deferred amounts under the A&R Vertex JDCA are only payable to Vertex as an offset against future profitability of the CASGEVY program and the amounts payable are capped at a specified maximum amount per year. These deferred costs on the CASGEVY program will be recognized by the Company when recoverability of such deferred amounts by Vertex is probable and the amount can be reasonably estimated. As of
+L3010: September 30, 2026
+L3011: ,
+L3012: no
+L3013: contingent payments have been accrued to date.
+L3014: The Company may be required to make future potential payments to Sirius under the Sirius Agreement defined and described in Note 6 of the notes to our unaudited condensed consolidated financial statements included in this Quarterly Report on Form 10-Q
+L3015: . Potential payments to Sirius include (i) up to $
+L3016: 20.0
+L3017: million in Sirius Option Payments, (ii) up to $
+L3018: 300.0
+L3019: million in certain specified future development, regulatory and sales milestones for the first siRNA Licensed Product relating to each licensed target
+L3020: to achieve the applicable milestones
+L3021: , as well as tiered royalty payments in the mid-single digits to low double digits range on future sales of a commercialized siRNA Licensed Product, and (iii) up to $
+L3022: 75.0
+L3023: million in certain specified future development and regulatory milestones related to the Sirius Collaboration Products. In the third quarter of 2026, the first development milestone under the Sirius Agreement was satisfied with the completion of patient enrollment for both of the first Phase II clinical trials for the Sirius Collaboration Products. As a result, the Company recognized $
+L3024: 12.5
+L3025: million of acquired in-process research and development expense associated with this milestone for the three and nine months ended September 30, 2026 in the condensed consolidated statements of operations and comprehensive loss, with $
+L3026: 12.5
+L3027: million included in accrued expenses on the condensed consolidated balance sheets as of September 30, 2026. As of
+L3028: September 30, 2026
+L3029: ,
+L3030: no
+L3031: other contingent payments have been accrued to date.
+L3032: 8. Debt
+L3033: Notes, net
+L3034: In March 2026, the Company issued $
+L3035: 600.0
+L3036: million aggregate principal amount of the Notes, pursuant to an indenture dated
+L3037: March 16, 2026
+L3038: , or the Indenture, between the Company and U.S. Bank Trust Company, National Association, as trustee, in a private offering to qualified institutional buyers, or the 2026 Note Offering. The Notes issued in the 2026 Note Offering include the exercise in full of the initial purchasers’ option to purchase $
+L3039: 50.0
+L3040: million of additional Notes. The investors in the Notes agreed to an effective coupon of
+L3041: 1.125
+L3042: %.
+L3043: Because of anticipated 35% withholding on interest payments on the Notes under Swiss tax law, the Company agreed to increase the coupon by
+L3044: 0.6058
+L3045: % to
+L3046: 1.7308
+L3047: % to effectively eliminate the impact of such anticipated withholding on any holders who are not eligible to receive a refund.
+L3048: The Notes are senior, unsecured obligations of the Company and will mature on March 1, 2031, or the maturity date, unless earlier converted, redeemed or repurchased. The Notes will accrue interest payable semiannually in arrears on March 1 and September 1 of each year, beginning on September 1, 2026. Holders may convert all or any portion of their Notes at their option prior to the maturity date, other than during a “conversion freeze period” (as defined in the Indenture). Upon conversion, the Company will deliver common shares at an initial conversion rate of
+L3049: 13.0617
+L3050: common shares per $
+L3051: 1,000
+L3052: principal amount of Notes (equivalent to an initial conversion price of approximately $
+L3053: 76.56
+L3054: per common share), subject to adjustment in some events in accordance with the terms of the Indenture but will not be adjusted for any accrued and unpaid interest.
+L3055: In
+L3056: addition, if certain corporate events occur or are anticipated to occur prior to the maturity date or if the Company delivers a notice of optional redemption, the Company will, in certain circumstances, increase the conversion rate for a holder who elects to convert its Notes in connection with such a corporate event or called (or deemed called) for redemption in connection with such notice
+L3057: 15
+L3058: Table of Contents
+L3059: of
+L3060: optional redemption. Initially, a maximum of
+L3061: 11,363,580
+L3062: common shares may be delivered upon conversion of the Notes, based on the initial maximum conversion rate of
+L3063: 18.9393
+L3064: common shares per $
+L3065: 1,000
+L3066: principal amount of Notes, which is subject to customary conversion rate adjustment provisions.
+L3067: The Company may not redeem the Notes prior to
+L3068: March 6, 2029
+L3069: . On or after such date, the Company may redeem for cash all or any portion of the Notes (subject to the partial redemption limitation described in the Indenture), at its option, if the last reported sale price of its common shares has been at least
+L3070: 130
+L3071: % of the conversion price for the Notes then in effect for at least
+L3072: 20
+L3073: trading days (whether or not consecutive) during any
+L3074: 30
+L3075: consecutive trading day period (including the last trading day of such period) ending on, and including, the trading day immediately preceding the date on which the Company provides notice of optional redemption, at a redemption price equal to
+L3076: 100
+L3077: % of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest to, but excluding, the optional redemption date.
+L3078: No
+L3079: sinking fund is provided for the Notes.
+L3080: If the Company undergoes a fundamental change (as defined in the Indenture), then, subject to certain conditions and except as described in the Indenture, holders may require the Company to repurchase for cash all or any portion of their Notes at a fundamental change repurchase price equal to
+L3081: 100
+L3082: % of the principal amount of the Notes to be repurchased, plus accrued and unpaid interest to, but excluding, the fundamental change repurchase date.
+L3083: The Indenture includes customary covenants and sets forth certain events of default after which the Notes may be declared immediately due and payable and sets forth certain types of bankruptcy or insolvency events of default involving the Company after which the Notes become automatically due and payable.
+L3084: The Company received net proceeds from the 2026 Note Offering of approximately $
+L3085: 585.4
+L3086: million, after deducting the initial purchasers’ discounts and commissions and the estimated offering expenses payable by the Company. Additionally, in connection with the issuance of the Notes, the Company incurred approximately $
+L3087: 14.6
+L3088: million of debt issuance costs, which consisted of initial purchasers’ discounts, legal and professional fees. This was recorded as a reduction in the carrying value of the debt on the condensed consolidated balance sheets and is amortized to interest expense using the effective interest method over the expected life of the Notes, which is approximately five years.
+L3089: Additional Information Related to the Notes
+L3090: The outstanding balances of the Notes consisted of the following (in thousands):
+L3091: September 30, 2026
+L3092: December 31, 2025
+L3093: Principal
+L3094: $
+L3095: 600,000
+L3096: $
+L3097: —
+L3098: Unamortized debt discount and issuance costs
+L3099: (
+L3100: 13,066
+L3101: )
+L3102: —
+L3103: Net carrying amount
+L3104: $
+L3105: 586,934
+L3106: $
+L3107: —
+L3108: The following table sets forth the total interest expense recognized and effective interest rates related to the Notes for the periods presented (in thousands):
+L3109: Three Months Ended September 30
+L3110: Nine Months Ended September 30
+L3111: 2026
+L3112: 2025
+L3113: 2026
+L3114: 2025
+L3115: Contractual interest expense
+L3116: $
+L3117: 2,596
+L3118: $
+L3119: —
+L3120: $
+L3121: 5,625
+L3122: $
+L3123: —
+L3124: Amortization of debt discount and issuance costs
+L3125: 737
+L3126: —
+L3127: 1,584
+L3128: —
+L3129: Total interest and amortization expense
+L3130: $
+L3131: 3,333
+L3132: $
+L3133: —
+L3134: $
+L3135: 7,209
+L3136: $
+L3137: —
+L3138: Effective interest rate
+L3139: 2.2
+L3140: %
+L3141: —
+L3142: 2.2
+L3143: %
+L3144: —
+L3145: Cash paid for interest on the Notes was $
+L3146: 4.8
+L3147: million for the three and nine months ended September 30, 2026. As of
+L3148: September 30, 2026
+L3149: , interest payable on the Notes was $
+L3150: 0.9
+L3151: million. There was
+L3152: no
+L3153: interest payable on the Notes as of
+L3154: December 31, 2025
+L3155: . Such amounts are included in “Other current liabilities” in the Company’s condensed consolidated balance sheets.
+L3156: 9. Share Capital
+L3157: All of the Company’s common shares are authorized under Swiss corporate law with a nominal value of
+L3158: 0.03
+L3159: CHF per share. Though the nominal value of common shares is stated in Swiss francs, the Company continues to use U.S. dollars as its reporting currency for preparing the condensed consolidated financial statements.
+L3160: As of September 30, 2026
+L3161: , the Company’s share capital consists of
+L3162: 98,599,444
+L3163: registered common shares with a nominal value of CHF
+L3164: 0.03
+L3165: per share,
+L3166: 9,366,947
+L3167: registered common shares reserved for potential issuance of bonds or similar instruments and
+L3168: 17,686,403
+L3169: registered common shares reserved for the Company’s employee equity incentive plans. In addition, the Board of Directors is authorized to conduct one or more increases of the share capital at any time until June 8, 2028, or the expiration of the capital band if earlier, up to an upper limit of CHF
+L3170: 3,521,838.51
+L3171: by issuing a corresponding number of registered shares with a nominal value of CHF
+L3172: 0.03
+L3173: each to be fully paid in. As of
+L3174: September 30, 2026
+L3175: , the number of shares that may be issued under the capital band is
+L3176: 18,795,173
+L3177: registered common shares.
+L3178: 16
+L3179: Table of Contents
+L3180: Common Share Issuances
+L3181: At-the-Market Offerings (ATM)
+L3182: The Company has entered into an Open Market Sale Agreement
+L3183: SM
+L3184: , or the Sales Agreement, with Jefferies LLC under which the Company, at its sole discretion, is able to offer and sell, from time to time at prevailing market prices, its common shares. The following are in connection with the Sales Agreement.
+L3185: 2021 ATM
+L3186: In January 2021, the Company filed a prospectus supplement with the SEC to offer and sell, from time to time, common shares having aggregate gross proceeds of up to $
+L3187: 600.0
+L3188: million, or, together with the subsequent prospectus supplements filed in July 2021 and August 2024 relating to the common shares remaining under the original prospectus supplement, the 2021 ATM.
+L3189: For the three and nine months ended September 30, 2025
+L3190: , the Company issued and sold an aggregate of
+L3191: 4.9
+L3192: million and
+L3193: 5.1
+L3194: million common shares, respectively, under the 2021 ATM at an average price of $
+L3195: 57.50
+L3196: and $
+L3197: 57.39
+L3198: per share, respectively, for aggregate proceeds of $
+L3199: 278.1
+L3200: million and $
+L3201: 286.8
+L3202: million, respectively, which were net of equity issuance costs of $
+L3203: 3.6
+L3204: million and $
+L3205: 3.7
+L3206: million, respectively, excluding stamp taxes of $
+L3207: 2.8
+L3208: million and $
+L3209: 2.9
+L3210: million, respectively.
+L3211: As of December 31, 2025, the Company had issued and sold an aggregate of
+L3212: 8.0
+L3213: million common shares under the 2021 ATM at an average price of $
+L3214: 74.77
+L3215: per share for aggregate proceeds of $
+L3216: 592.2
+L3217: million, which were net of equity issuance costs of $
+L3218: 7.8
+L3219: million, excluding stamp taxes of $
+L3220: 5.9
+L3221: million. As of December 31, 2025,
+L3222: no
+L3223: common shares remained available under the 2021 ATM.
+L3224: 2025 ATM
+L3225: In October 2025, the Company filed a new prospectus supplement with the SEC to offer and sell, from time to time, common shares havin
+L3226: g aggregate gross proceeds of up to $
+L3227: 600.0
+L3228: million, or the 2025 ATM.
+L3229: No
+L3230: common shares were issued and sold under the 2025 ATM for the
+L3231: three and nine months ended September 30, 2026. As of September 30, 2026
+L3232: , the Company has issued and sold an aggregate of
+L3233: 0.7
+L3234: million common shares under the 2025 ATM at an average price of $
+L3235: 60.81
+L3236: per share for aggregate proceeds of $
+L3237: 42.3
+L3238: million, which is net of equity issuance costs of $
+L3239: 0.5
+L3240: million, excluding stamp taxes of $
+L3241: 0.4
+L3242: million. Common shares having aggregate gross proceeds up to $
+L3243: 557.2
+L3244: million remain available under the 2025 ATM.
+L3245: Share Issuance Agreement with Sirius Therapeutics
+L3246: As described in Note 6 of the notes to our unaudited condensed consolidated financial statements included in this Quarterly Report on Form 10-Q
+L3247: , the Company and Sirius entered into a share issuance agreement in 2025 and the Company registered and issued
+L3248: 1,842,105
+L3249: of the Company’s common shares to Sirius at an issue price of $
+L3250: 38.00
+L3251: per share as partial consideration for entering into the Sirius Agreement.
+L3252: 10. Stock-based Compensation
+L3253: During the
+L3254: three and nine months ended September 30, 2026 and 2025, the Company recognized the following stock-based compensation expense (in thousands):
+L3255: Three Months Ended September 30,
+L3256: Nine Months Ended September 30,
+L3257: 2026
+L3258: 2025
+L3259: 2026
+L3260: 2025
+L3261: Research and development
+L3262: $
+L3263: 8,118
+L3264: $
+L3265: 7,578
+L3266: $
+L3267: 23,812
+L3268: $
+L3269: 25,115
+L3270: General and administrative
+L3271: 9,843
+L3272: 9,026
+L3273: 27,789
+L3274: 29,308
+L3275: Total
+L3276: $
+L3277: 17,961
+L3278: $
+L3279: 16,604
+L3280: $
+L3281: 51,601
+L3282: $
+L3283: 54,423
+L3284: Stock option activity
+L3285: The following table summarizes stock option activity for the
+L3286: nine months ended September 30, 2026:
+L3287: Shares
+L3288: Weighted-
+L3289: average
+L3290: exercise price
+L3291: per share
+L3292: Outstanding at December 31, 2025
+L3293: 6,747,835
+L3294: $
+L3295: 56.82
+L3296: Granted
+L3297: 908,831
+L3298: 47.88
+L3299: Exercised
+L3300: (
+L3301: 457,074
+L3302: )
+L3303: 39.92
+L3304: Cancelled or forfeited
+L3305: (
+L3306: 552,393
+L3307: )
+L3308: 65.12
+L3309: Outstanding at September 30, 2026
+L3310: 6,647,199
+L3311: $
+L3312: 56.07
+L3313: Exercisable at September 30, 2026
+L3314: 4,770,798
+L3315: $
+L3316: 57.95
+L3317: Vested and expected to vest at September 30, 2026
+L3318: 6,647,199
+L3319: $
+L3320: 56.07
+L3321: 17
+L3322: Table of Contents
+L3323: As of September 30, 2026, total unrecognized compensation expense related to stock options was $
+L3324: 56.1
+L3325: million, which the Company expects to recognize over a remaining weighted-average period of
+L3326: 2.4
+L3327: years.
+L3328: Restricted stock activity
+L3329: The following table summarizes restricted stock activity for the
+L3330: nine months ended September 30, 2026:
+L3331: Shares
+L3332: Weighted-
+L3333: Average
+L3334: Grant Date
+L3335: Fair Value
+L3336: Unvested balance at December 31, 2025
+L3337: 1,965,567
+L3338: $
+L3339: 52.16
+L3340: Granted
+L3341: 709,456
+L3342: 48.48
+L3343: Vested
+L3344: (
+L3345: 477,357
+L3346: )
+L3347: 53.99
+L3348: Cancelled or forfeited
+L3349: (
+L3350: 221,467
+L3351: )
+L3352: 51.27
+L3353: Unvested balance at September 30, 2026
+L3354: 1,976,199
+L3355: $
+L3356: 50.49
+L3357: As of September 30, 2026, total unrecognized compensation expense related to unvested restricted common shares was $
+L3358: 74.0
+L3359: million, which the Company expects to recognize over a remaining weighted-average vesting period of
+L3360: 2.4
+L3361: years.
+L3362: 11.
+L3363: Net Loss Per Share Attributable to Common Shareholders
+L3364: Basic net loss per share is calculated by dividing net loss attributable to common shareholders by the weighted-average number of common shares outstanding during the period. Diluted net loss per share is calculated by adjusting net loss to remove the effects from potential dilutive common shares and dividing this adjusted amount by the weighted average number of common shares and potential dilutive common shares outstanding for the period. For purposes of the diluted net loss per share calculation, stock options, unvested restricted common shares, ESPP shares and shares issuable under an assumed conversion of the Notes are considered to be common stock equivalents but are excluded from the calculation of diluted net loss per share, as their effect would be anti-dilutive; therefore, basic and diluted net loss per share were the same for all periods presented as a result of the Company’s net loss. The Company’s net loss is net loss attributable to common shareholders for all periods presented.
+L3365: The Company did not include the securities in the following table in the computation of the net loss per share calculations for the
+L3366: three and nine months ended September 30, 2026 and 2025 because the effect would have been anti-dilutive during each period:
+L3367: Three Months Ended September 30,
+L3368: Nine Months Ended September 30,
+L3369: 2026
+L3370: 2025
+L3371: 2026
+L3372: 2025
+L3373: Outstanding options
+L3374: 6,647,199
+L3375: 6,730,917
+L3376: 6,647,199
+L3377: 6,730,917
+L3378: Unvested restricted common shares
+L3379: 1,976,199
+L3380: 2,040,729
+L3381: 1,976,199
+L3382: 2,040,729
+L3383: ESPP
+L3384: 5,179
+L3385: 5,829
+L3386: 5,179
+L3387: 5,829
+L3388: Assumed conversion of the Notes
+L3389: 7,837,020
+L3390: —
+L3391: 7,837,020
+L3392: —
+L3393: Total
+L3394: 16,465,597
+L3395: 8,777,475
+L3396: 16,465,597
+L3397: 8,777,475
+L3398: 12. Income Taxes
+L3399: During the three and nine months ended September 30, 2026
+L3400: , the Company recorded an income tax provision of $
+L3401: 0.1
+L3402: million and $
+L3403: 1.9
+L3404: million, respectively, representing an effective tax rate of (
+L3405: 0.1
+L3406: %) and (
+L3407: 0.6
+L3408: %), respectively. During the
+L3409: three and nine months ended September 30, 2025
+L3410: , the Company recorded an income tax provision of $
+L3411: 0.6
+L3412: million and $
+L3413: 3.0
+L3414: million, respectively, representing an effective tax rate of (
+L3415: 0.6
+L3416: %) and (
+L3417: 0.7
+L3418: %), respectively. The income tax provision for the
+L3419: three and nine months ended September 30, 2026
+L3420: is primarily attributable to the income generated by the Company’s U.S. subsidiaries. The difference in the statutory tax rate and effective tax rate is primarily a result of the jurisdictional mix of earnings, research credits generated, and the valuation allowance recorded against certain deferred tax assets. The Company maintains a valuation allowance against certain deferred tax assets that are not more-likely-than-not realizable.
+L3421: 13. Segment Information
+L3422: The Company operates as
+L3423: one
+L3424: operating segment, which is the business of discovering, developing and commercializing therapies. The determination of a single business segment is consistent with the consolidated financial information regularly provided to the Company’s chief operating decision maker, or CODM. The Company’s
+L3425: chief executive officer
+L3426: , as the CODM, uses consolidated, single-segment financial information for purposes of evaluating performance, making operating decisions, allocating resources and planning and forecasting for future periods.
+L3427: The CODM assesses performance and decides how to allocate resources based on consolidated net loss.
+L3428: The measure is used to monitor budget versus actual results to evaluate the performance of the segment.
+L3429: 18
+L3430: Table of Contents
+L3431: The measure of segment assets is reported on the condensed consolidated balance sheets as total consolidated assets. All material long-lived assets are located in the United States. Long-lived assets consist of property and equipment, net, and operating lease right-of-use assets.
+L3432: The following table illustrates information about segment revenue, significant segment expenses and segment operating loss for the periods presented (in thousands):
+L3433: Three Months Ended September 30,
+L3434: Nine Months Ended September 30,
+L3435: 2026
+L3436: 2025
+L3437: 2026
+L3438: 2025
+L3439: Revenue:
+L3440: Collaboration revenue
+L3441: $
+L3442: 12,323
+L3443: $
+L3444: —
+L3445: $
+L3446: 23,323
+L3447: $
+L3448: —
+L3449: Grant revenue
+L3450: 346
+L3451: 889
+L3452: 985
+L3453: 2,646
+L3454: Less
+L3455: 1
+L3456: :
+L3457: Research and development expense
+L3458: 2
+L3459: 56,231
+L3460: 48,298
+L3461: 166,967
+L3462: 167,863
+L3463: Acquired in-process research and development
+L3464: 3
+L3465: 11,675
+L3466: —
+L3467: 14,148
+L3468: 96,253
+L3469: General and administrative expense
+L3470: 4
+L3471: 5,898
+L3472: 5,749
+L3473: 18,450
+L3474: 19,106
+L3475: Collaboration expense, net - Vertex
+L3476: 5
+L3477: 41,284
+L3478: 57,115
+L3479: 127,505
+L3480: 159,777
+L3481: Collaboration expense, net - Sirius
+L3482: 6
+L3483: 5,427
+L3484: 767
+L3485: 10,380
+L3486: 1,267
+L3487: Stock-based compensation expense
+L3488: 17,961
+L3489: 16,604
+L3490: 51,601
+L3491: 54,423
+L3492: Depreciation expense
+L3493: 4,238
+L3494: 4,415
+L3495: 12,819
+L3496: 13,764
+L3497: Other segment items
+L3498: 7
+L3499: (
+L3500: 18,608
+L3501: )
+L3502: (
+L3503: 25,618
+L3504: )
+L3505: (
+L3506: 52,040
+L3507: )
+L3508: (
+L3509: 58,821
+L3510: )
+L3511: Segment net loss
+L3512: (
+L3513: 111,437
+L3514: )
+L3515: (
+L3516: 106,441
+L3517: )
+L3518: (
+L3519: 325,522
+L3520: )
+L3521: (
+L3522: 450,986
+L3523: )
+L3524: Reconciliation of profit or loss:
+L3525: Adjustments or reconciling items
+L3526: —
+L3527: —
+L3528: —
+L3529: —
+L3530: Consolidated net loss
+L3531: (
+L3532: 111,437
+L3533: )
+L3534: (
+L3535: 106,441
+L3536: )
+L3537: (
+L3538: 325,522
+L3539: )
+L3540: (
+L3541: 450,986
+L3542: )
+L3543: (1) The significant expense categories and amounts align with the segment-level information that is regularly provided to the CODM.
+L3544: (2) Research and development expense for the
+L3545: three and nine months ended September 30, 2026
+L3546: excludes $
+L3547: 8.1
+L3548: million and $
+L3549: 23.8
+L3550: million of stock-based compensation expense, respectively, and $
+L3551: 2.1
+L3552: million and $
+L3553: 6.5
+L3554: million of depreciation expense, respectively.
+L3555: Research and development expense for the three and nine months ended September 30, 2025
+L3556: excludes $
+L3557: 7.6
+L3558: million and $
+L3559: 25.1
+L3560: million of stock-based compensation expense, respectively, and $
+L3561: 2.3
+L3562: million and $
+L3563: 7.0
+L3564: million of depreciation expense, respectively. Research and development expense for the periods presented also excludes costs related to the Sirius Agreement, described further below.
+L3565: (3) Acquired in-process research and development expense for the
+L3566: three and nine months ended September 30, 2026
+L3567: was $
+L3568: 11.7
+L3569: million and $
+L3570: 14.1
+L3571: million, respectively, and primarily consisted of a development milestone under the Sirius Agreement that was recognized in the third quarter of 2026. Acquired in-process research and development expenses for the
+L3572: nine months ended September 30, 2025
+L3573: were attributable to the costs incurred upon entering the Sirius Agreement during the second quarter of 2025, as described in Note 6.
+L3574: (4) General and administrative expense for the
+L3575: three and nine months ended September 30, 2026
+L3576: excludes $
+L3577: 9.8
+L3578: million and $
+L3579: 27.8
+L3580: million of stock-based compensation expense, respectively, and $
+L3581: 2.1
+L3582: million and $
+L3583: 6.4
+L3584: million of depreciation expense, respectively. General and administrative expense for the
+L3585: three and nine months ended September 30, 2025
+L3586: excludes $
+L3587: 9.0
+L3588: million and $
+L3589: 29.3
+L3590: million of stock-based compensation expense, respectively, and $
+L3591: 2.2
+L3592: million and $
+L3593: 6.7
+L3594: million of depreciation expense, respectively.
+L3595: (5) Collaboration costs specific to the Vertex Hemoglobinopathy Agreements (as defined in Note 6) accounted for under ASC 808 are presented within “collaboration expense, net” in the condensed consolidated statements of operations and comprehensive loss.
+L3596: (6) In the second quarter of 2025, the Company entered into the Sirius Agreement (as defined in Note 6). Collaboration costs, net of reimbursements, related to the Sirius Collaboration Products under the Sirius Agreement are presented within “research and development expense” in the condensed consolidated statements of operations and comprehensive loss. In the first quarter of 2026, the significant expense categories reviewed by the CODM were updated to include collaboration costs, net of reimbursements, associated with the Sirius Collaboration Products. As a result, the Company recast segment amounts for the
+L3597: three and nine months ended September 30, 2025
+L3598: to reflect the updated significant expense categories.
+L3599: (7) Other segment items include interest income (expense), net, the change in fair value of corporate equity securities and income tax expense.
+L3600: The Company operates in the United States and Switzerland. Collaboration revenue is attributed to the CRISPR Therapeutics AG entity, which is domiciled in Switzerland.
+L3601: 19
+L3602: Table of Contents
+L3603: Item 2. Management’s Discussion and Analysis of
+L3604: Financial Condition and Results of Operations
+L3605: The following discussion and analysis of our financial condition and results of operations should be read in conjunction with (i) our unaudited condensed consolidated financial statements and related notes appearing elsewhere in this Quarterly Report on Form 10-Q and (ii) our audited consolidated financial statements and related notes and management’s discussion and analysis of financial condition and results of operations included in our Annual Report on Form 10-K for the year ended December 31, 2025 filed with the Securities and Exchange Commission, or the SEC, on February 12, 2026. Some of the information contained in this discussion and analysis or set forth elsewhere in this Quarterly Report on Form 10-Q, including information with respect to our plans and strategy for our business and impact and potential impacts on our business, includes forward-looking statements that involve risks and uncertainties. As a result of many factors, including, without limitation, those factors set forth in the “Risk Factors” section of our Annual Report on Form 10-K for the year ended December 31, 2025 and the “Risk Factors” section of subsequent Quarterly Reports on Form 10-Q, our actual results or timing of certain events could differ materially from the results or timing described in, or implied by, these forward-looking statements.
+L3606: Overview
+L3607: Our mission is to create transformative gene-based medicines for serious human diseases. We are a leading biopharmaceutical company focused on the development of CRISPR-based therapeutics, including by using CRISPR/Cas9 technology. We have established a portfolio of therapeutic programs spanning four core franchises: hemoglobinopathies,
+L3608: in vivo
+L3609: approaches, CAR-T and regenerative medicine. Depending on the program, we take either an
+L3610: ex vivo
+L3611: approach, in which we edit cells outside of the human body before administering them to the patient, or an
+L3612: in vivo
+L3613: editing approach, where we deliver the CRISPR-based therapeutic directly to target cells within the human body.
+L3614: CRISPR/Cas9 is a revolutionary technology for gene editing, the process of precisely altering specific sequences of genomic DNA. We have advanced this technology from discovery to an approved medicine with unparalleled speed, culminating in the landmark first approval of a CRISPR-based therapy, CASGEVY (exagamglogene autotemcel [exa-cel]), in 2023 with our collaborators at Vertex Pharmaceuticals Incorporated, or Vertex.
+L3615: We continue to innovate on our platform to develop next-generation technologies that can enable new therapies. We are developing other technologies, including delivery technologies and other gene editing technologies, like SyNTase. Through our efforts, we aim to unlock the full potential of gene-based therapeutics to create medicines that can transform people’s lives. We believe that our innovative research, translational expertise and clinical development experience position us as a leader in the development of CRISPR-based therapeutics and may enable us to create an entirely new class of highly effective and potentially curative therapies for patients with both common and rare diseases for whom current biopharmaceutical approaches have had limited success.
+L3616: Hemoglobinopathies
+L3617: CASGEVY
+L3618: CASGEVY is a non-viral,
+L3619: ex vivo
+L3620: CRISPR/Cas9 gene-edited cell therapy, in which a patient’s own hematopoietic stem and progenitor cells are edited at the erythroid specific enhancer region of the
+L3621: BCL11A
+L3622: gene through a precise double-strand break. This edit results in the production of high levels of fetal hemoglobin in red blood cells, which can compensate for the defective adult hemoglobin in patients with sickle cell disease, or SCD, or transfusion-dependent beta thalassemia, or TDT. CASGEVY is the first therapy to emerge from our strategic partnership with Vertex and is being advanced under a joint development and commercialization agreement between us and Vertex and certain of its affiliates.
+L3623: In 2023, CASGEVY became the first-ever approved CRISPR-based gene-editing therapy in the world. To date, CASGEVY has been approved in multiple jurisdictions, including the United States, European Union, and certain countries in the Middle East, including the Kingdom of Saudi Arabia, for the treatment of eligible patients 12 years and older with SCD or TDT. Additionally, CASGEVY has been approved for use in younger children in select jurisdictions, including in the United States, United Kingdom and certain countries in the Middle East. We and Vertex continue to investigate CASGEVY in clinical trials, including in long-term follow-up clinical trials designed to follow participants for up to 15 years after CASGEVY infusion. Overall, CASGEVY safety data presented to date is generally consistent with an autologous stem cell transplant and myeloablative conditioning. Efficacy data presented to date support the profile of this therapy as a potential one-time functional cure for people with severe SCD and TDT.
+L3624: Additional candidates
+L3625: We continue to advance our internally developed targeted conditioning program, as well as
+L3626: in vivo
+L3627: hematopoietic stem cell editing approaches utilizing lipid nanoparticle-mediated delivery through preclinical studies. Both initiatives could significantly expand the addressable patient populations for SCD and TDT.
+L3628: In Vivo Liver Editing
+L3629: We have established a leading platform for
+L3630: in vivo
+L3631: gene editing and are rapidly advancing a pipeline of
+L3632: in vivo
+L3633: gene editing candidates that target the liver, taking advantage of validated lipid nanoparticle, or LNP, delivery technologies, and aim to treat
+L3634: 20
+L3635: Table of Contents
+L3636: diseases where we can produce a strong therapeutic effect by safely disrupting a gene with well-understood genetic association. We have established a proprietary LNP delivery platform to enable gene-editing in the liver using both CRISPR/Cas9 and our novel, proprietary SyNTase editing technologies.
+L3637: Our
+L3638: in vivo
+L3639: portfolio includes cardiovascular programs, such as CTX310, CTX340 and CTX460.
+L3640: CTX310, directed towards angiopoietin-related protein 3, or ANGPLT3, is currently in an ongoing Phase 1 clinical trial in patients with heterozygous familial hypercholesterolemia, homozygous familial hypercholesterolemia, mixed dyslipidemias, or severe hypertriglyceridemia, or sHTG. In August 2026, we presented Phase 1a durability data for CTX310 in a late-breaking session at the European Society of Cardiology Congress 2026 and simultaneously published in
+L3641: The New England Journal of Medicine
+L3642: . A single-course treatment with CTX310 produced durable reductions in circulating ANGPTL3, triglycerides, or TG, and low-density lipoprotein, or LDL, that were sustained through one year of follow-up. At the highest dose, mean reductions from baseline were 79% (maximum 89%) for ANGPTL3, 48% (maximum 78%) for TG, and 53% (maximum 84%) for LDL-C in a mixed patient cohort with high triglycerides, high LDL-C, or both. In the Phase 1a, CTX310 was well tolerated with no treatment-related serious adverse events. CTX310 has been granted regenerative medicine advanced therapy designations by the U.S. Food and Drug Administration, or FDA, for the treatment of sHTG and for the treatment of patients with elevated LDL-C.
+L3643: CTX340, directed towards angiotensinogen, and CTX460, directed towards SERPINA1 using our proprietary SyNTase editing platform, are in Phase 1 clinical trials in patients for the treatment of refractory hypertension and in patients for the treatment of alpha-1 antitrypsin deficiency, respectively.
+L3644: Additional candidates
+L3645: In addition, we have a number of earlier stage investigational
+L3646: in vivo
+L3647: programs leveraging gene disruption in the liver for both common and rare diseases, including our next-generation LPA program, CTX321 directed towards
+L3648: LPA
+L3649: , the gene encoding apolipoprotein(a), a major component of lipoprotein(a), or Lp(a), in development for patients with elevated Lp(a). CTX321 is currently in IND/CTA-enabling studies. We are also pursuing additional delivery technologies, including LNPs, for delivery to tissues beyond the liver, including hematopoietic stem cells and T cells.
+L3650: siRNA-based Programs
+L3651: Our siRNA-based portfolio includes clinical-stage programs in cardiovascular and thromboembolic diseases, developed in collaboration with Sirius Therapeutics and certain of its affiliates, or Sirius.
+L3652: CTX611 is a novel double-stranded, long-acting siRNA, designed to target the human coagulation factor XI, or FXI, messenger RNA and inhibit FXI protein expression. Through modulation of the intrinsic coagulation pathway, CTX611 is intended to provide anticoagulant and antithrombotic effects. Supported by clinical experience conducted by Sirius in two Phase 1 clinical trials, CTX611 is being developed as a long-acting FXI inhibitor with the potential to support infrequent, including semi-annual, subcutaneous administration.
+L3653: CTX611 is in ongoing Phase 2 clinical trials, including in patients undergoing total knee arthroplasty, which recently completed enrollment.
+L3654: CAR-T
+L3655: We believe CRISPR/Cas9 has the potential to create the next generation of CAR-T cell therapies that may have a superior product profile and allow broader patient access compared to current autologous therapies. We are advancing several cell therapy programs in both autoimmune and immuno-oncology indications.
+L3656: Zugocabtagene geleucel
+L3657: Our lead next-generation product candidate, zugocabtagene geleucel (zugo-cel; formerly CTX112), incorporates edits designed to enhance CAR-T potency, reduce CAR-T exhaustion and evade the immune system. As a result of the next-generation edits, zugo-cel exhibits increased manufacturing robustness, with a higher and more consistent number of CAR-T cells produced per batch. We are producing zugo-cel for clinical trials at our internal GMP manufacturing facility in Framingham, Massachusetts. Zugo-cel continues to advance in both autoimmune disease and hematologic malignancies.
+L3658: In autoimmune disease, zugo-cel is being investigated in three ongoing Phase 1 clinical trials designed to assess the safety and efficacy of the product candidate in adult patients across multiple indications, including an initial clinical trial in systemic lupus erythematosus, or SLE, systemic sclerosis, and inflammatory myositis; a second clinical trial in immune thrombocytopenia purpura and warm autoimmune hemolytic anemia; and a third clinical trial in autoimmune neurologic diseases, including progressive multiple sclerosis, neuromyelitis optica spectrum disorder, myelin oligodendrocyte glycoprotein antibody-associated Disease (MOGAD), N-methyl-D-aspartate receptor (NMDAR) and leucine-rich glioma-inactivated Protein 1 (LGI1) autoimmune encephalitis and stiff person syndrome.
+L3659: In immuno-oncology, the Phase 1/2 clinical trial in adult patients with relapsed or refractory B-cell malignancies who have received at least two prior lines of therapy is ongoing. Eligible disease subtypes include large B-cell lymphoma, or LBCL, follicular lymphoma grade 1-3a, marginal zone lymphoma, and mantle cell lymphoma. We have also established a collaboration and clinical
+L3660: 21
+L3661: Table of Contents
+L3662: supply agreement with Eli Lilly to evaluate zugo-cel together with pirtobrutinib in aggressive B-cell lymphomas. Zugo-cel has been granted regenerative medicine advanced therapy designation by the FDA for the treatment of relapsed or refractory follicular lymphoma and marginal zone lymphoma.
+L3663: Additional candidates
+L3664: Our CRISPR/Cas9 platform enables us to innovate continuously by incorporating incremental edits into next-generation products. We are advancing several additional investigational CAR-T programs. In addition, we are developing both transient and integrated
+L3665: in
+L3666: vivo
+L3667: CAR-T therapies by targeting T cells with LNPs and leveraging our delivery, mRNA, and gene editing expertise.
+L3668: Regenerative Medicine
+L3669: We continue to advance our regenerative medicine portfolio, including in diabetes. We are advancing CTX213, a deviceless beta cell replacement product candidate consisting of unencapsulated precursor islet cells derived from induced pluripotent stem cells for the treatment of type 1 diabetes, or T1D. To date, CTX213 has demonstrated preclinical efficacy data via direct administration. In addition, we have granted a non-exclusive license to certain of our CRISPR/Cas9 intellectual property to Vertex to accelerate Vertex’s development of hypoimmune cell therapies for T1D in exchange for certain milestones and royalties.
+L3670: Next-generation Editing Modalities
+L3671: While we have made significant progress with our current portfolio of programs, we recognize that we may be able to bring transformative therapies to even more patients by continuing to innovate to unlock the full potential of gene editing. We are focused on innovating next-generation editing modalities. For example, we have developed a proprietary, next-generation, site-specific gene correction platform called SyNTase editing. In addition, we are also developing technologies to enable whole gene correction and insertion via non-viral DNA delivery and all-RNA systems.
+L3672: Partnerships
+L3673: Given the numerous potential therapeutic applications for CRISPR/Cas9, we have partnered strategically to broaden the indications we can pursue and accelerate development of programs by accessing specific technologies and/or disease-area expertise. We maintain broad partnerships to develop gene-based therapeutics in specific disease areas.
+L3674: Hemoglobinopathies
+L3675: .  In 2015, we partnered with Vertex and entered into a strategic collaboration, option and license agreement, which focused on the discovery and development of gene-based treatments for hemoglobinopathies and cystic fibrosis using CRISPR/Cas9 gene-editing technology. In 2017, Vertex exercised its option to co-develop and co-commercialize the hemoglobinopathies program and we entered into a joint development and commercialization agreement with Vertex, which we amended and restated in 2021, pursuant to which, among other things, we are co-developing and co-commercializing CASGEVY for TDT and SCD.
+L3676: siRNA.
+L3677: In May 2025, we partnered with Sirius and entered into the Sirius Agreement pursuant to which, among other things, (1) we and Sirius will collaborate on the research, development, manufacture, commercialization and use of the Sirius Collaboration Products, including co-development and co-commercialization of CTX611; and (2) Sirius granted us options to exclusively license Sirius siRNA technology to target up to two licensed targets from a list of seven reserved targets for the research, development, manufacture and commercialization of siRNA Licensed Products. For the first Sirius Collaboration Product successfully developed, we will be the lead party responsible for Phase 3 global development and commercialization efforts in the United States and Sirius will be the lead party responsible for Phase 3 development (subject to the global development plan) and commercialization efforts in Greater China.
+L3678: Other Partnerships.
+L3679: We have entered into a number of additional collaborations, research and license agreements in other therapeutic areas, including additional agreements with Vertex including for the treatment of Duchenne muscular dystrophy and myotonic dystrophy type 1, as well as diabetes, and others, including to support and complement our hematopoietic stem cell, CAR-T,
+L3680: in vivo
+L3681: and diabetes programs and platform.
+L3682: Financial Overview
+L3683: Since our inception in October 2013, we have devoted substantially all of our resources to our research and development efforts, identifying potential product candidates, undertaking drug discovery and preclinical development activities, building and protecting our intellectual property estate, establishing internal manufacturing capabilities, organizing and staffing our company, business development activities, business planning, raising capital and providing general and administrative support for these operations. To date, we have primarily financed our operations through private placements of our preferred shares, common share issuances, convertible loans, issuance of convertible notes and payments related to certain of our license and collaboration agreements with strategic partners.
+L3684: We have a history of recurring losses and expect to continue to incur losses for the foreseeable future; however, we have been in a net income position in certain previous years due to certain payments associated with our collaboration and license agreements with Vertex. Our net losses may fluctuate significantly from quarter to quarter and year to year. We anticipate that our expenses will
+L3685: 22
+L3686: Table of Contents
+L3687: increase as we continue our current research programs and development activities; seek to identify additional research programs and additional product candidates; conduct initial drug application supporting preclinical studies and initiate clinical trials for our product candidates; pursue business development activities; initiate preclinical testing and clinical trials for any other product candidates we identify and develop; seek regulatory approval for our product candidates; maintain, defend, protect and expand our intellectual property estate; further develop our gene editing platform and other technologies; hire additional research, clinical and scientific personnel; incur facilities costs; continue to develop internal manufacturing capabilities and infrastructure; and incur additional costs associated with operating as a public company.
+L3688: Revenue Recognition
+L3689: We have not generated any revenue to date from sales of any wholly-owned product and do not expect to do so in the near future. Revenue recognized for the three and nine months ended September 30, 2026 was $12.7 million and $24.3 million, respectively, and primarily related to $12.3 million of previously deferred collaboration revenue under an amendment to the 2015 Collaboration Agreement with Vertex recognized in the third quarter of 2026, as well as an upfront payment on an immaterial license and collaboration agreement entered into during the second quarter of 2026. Revenue for the three and nine months ended September 30, 2025 was not material. For additional information about our revenue recognition policy, see Note 2, “Summary of Significant Accounting Policies,” in our Annual Report on Form 10-K for the year ended December 31, 2025 filed with the SEC on February 12, 2026, as well as Note 6 of the notes to our unaudited condensed consolidated financial statements included in this Quarterly Report on Form 10-Q.
+L3690: Research and Development Expenses
+L3691: Research and development expenses consist primarily of costs incurred for our research activities, including our product discovery efforts and the development of our product candidates, which include:
+L3692: •
+L3693: employee-related expenses, including salaries, benefits and equity-based compensation expense;
+L3694: •
+L3695: costs of services performed by third parties that conduct research and development and preclinical and clinical activities on our behalf;
+L3696: •
+L3697: costs of purchasing lab supplies and non-capital equipment used in our preclinical activities and in manufacturing preclinical study materials, as well as supplies and materials used to manufacture clinical drug material;
+L3698: •
+L3699: research, development and commercialization costs under the Sirius Agreement, including the related impact of cost sharing for the Sirius Collaboration Products;
+L3700: •
+L3701: consultant fees;
+L3702: •
+L3703: facility costs, including rent, depreciation and maintenance expenses; and
+L3704: •
+L3705: fees and other payments related to acquiring and maintaining licenses under certain of our third-party licensing agreements.
+L3706: Our external research and development expenses support our various preclinical and clinical programs, and, as such, we do not break down external research and development expenses further. Our internal research and development expenses consist of payroll and benefits expenses, facilities expense, and other indirect research and development expenses incurred in support of overall research and development activities and, as such, are not allocated to a specific development stage or therapeutic area. Research and development costs are expensed as incurred. Nonrefundable advance payments for research and development goods or services to be received in the future are deferred and capitalized. The capitalized amounts are expensed as the related goods are delivered or the services are performed. At this time, we cannot reasonably estimate or know the nature, timing or estimated costs of the efforts that will be necessary to complete the development of any product candidates we may identify and develop. This is due to the numerous risks and uncertainties associated with developing such product candidates, including the uncertainty of:
+L3707: •
+L3708: successful completion of preclinical studies and IND/CTA-enabling studies;
+L3709: •
+L3710: successful enrollment in, and completion of, clinical trials;
+L3711: •
+L3712: receipt of marketing approvals from applicable regulatory authorities;
+L3713: •
+L3714: establishing commercial manufacturing capabilities or making arrangements with third-party manufacturers;
+L3715: •
+L3716: obtaining and maintaining patent and trade secret protection and non-patent exclusivity;
+L3717: •
+L3718: launching commercial sales of the product, if and when approved, whether alone or in collaboration with others;
+L3719: •
+L3720: acceptance of the product, if and when approved, by patients, the medical community and third-party payors;
+L3721: •
+L3722: effectively competing with other therapies and treatment options;
+L3723: •
+L3724: a continued acceptable safety profile following approval;
+L3725: •
+L3726: enforcing and defending intellectual property and proprietary rights and claims; and
+L3727: •
+L3728: achieving desirable medicinal properties for the intended indications.
+L3729: 23
+L3730: Table of Contents
+L3731: A change in the outcome of any of these variables with respect to the development of any product candidates or the subsequent commercialization of any product candidates we may successfully develop could significantly change the costs, timing and viability associated with the development of that product candidate.
+L3732: Research and development activities are central to our business model. We expect to continue to incur research and development costs consistent with research and development at companies of our size and stage of development, which may increase in the foreseeable future as our current development programs progress, new programs are added and we continue to prepare regulatory filings. These increases will likely include the costs related to the implementation and expansion of clinical trial sites and related patient enrollment, monitoring, program management and manufacturing expenses for current and future clinical trials.
+L3733: Acquired In-Process Research and Development Expenses
+L3734: Asset acquisition costs related to acquired technology are expensed as acquired in-process research and development at the point that they have no established alternative future use. We classify asset acquisitions of acquired in-process research and development as investing activities on our condensed consolidated statements of cash flows.
+L3735: General and Administrative Expenses
+L3736: General and administrative expenses consist primarily of employee-related expenses, including salaries, benefits and equity-based compensation, for personnel in executive, finance, accounting, business development, human resources and other general and administrative functions. Other significant costs include facility costs not otherwise included in research and development expenses, legal fees relating to patent and corporate matters and fees for accounting and consulting services.
+L3737: We expect to continue to incur general and administrative expenses consistent with general and administrative functions at research and development companies of our size and stage of development, which may increase in the future to support continued research and development activities, and potential commercialization of our product candidates. In addition, we anticipate ongoing expenses related to the reimbursements of third-party patent related expenses in connection with certain of our in-licensed intellectual property.
+L3738: Collaboration Expense, Net
+L3739: Collaboration expense, net, consists of operating expense under our collaboration with Vertex for the hemoglobinopathies program.
+L3740: Other Income (Expense), Net
+L3741: Other income (expense), net consists primarily of interest expense on debt, interest income earned on investments, as well as the change in fair value of corporate equity securities.
+L3742: Results of Operations
+L3743: Comparison of the three months ended September 30, 2026 and 2025 (in thousands)
+L3744: :
+L3745: Three Months Ended September 30,
+L3746: Period to Period
+L3747: 2026
+L3748: 2025
+L3749: Change
+L3750: Revenue:
+L3751: Collaboration revenue
+L3752: $
+L3753: 12,323
+L3754: $
+L3755: —
+L3756: $
+L3757: 12,323
+L3758: Grant revenue
+L3759: 346
+L3760: 889
+L3761: (543
+L3762: )
+L3763: Total revenue
+L3764: 12,669
+L3765: 889
+L3766: 11,780
+L3767: Operating expenses:
+L3768: Research and development
+L3769: 71,888
+L3770: 58,902
+L3771: 12,986
+L3772: Acquired in-process research and development
+L3773: 11,675
+L3774: —
+L3775: 11,675
+L3776: General and administrative
+L3777: 17,867
+L3778: 16,931
+L3779: 936
+L3780: Collaboration expense, net
+L3781: 41,284
+L3782: 57,115
+L3783: (15,831
+L3784: )
+L3785: Total operating expenses
+L3786: 142,714
+L3787: 132,948
+L3788: 9,766
+L3789: Loss from operations
+L3790: (130,045
+L3791: )
+L3792: (132,059
+L3793: )
+L3794: 2,014
+L3795: Other income, net
+L3796: 18,682
+L3797: 26,237
+L3798: (7,555
+L3799: )
+L3800: Loss before income taxes
+L3801: (111,363
+L3802: )
+L3803: (105,822
+L3804: )
+L3805: (5,541
+L3806: )
+L3807: Provision for income taxes
+L3808: (74
+L3809: )
+L3810: (619
+L3811: )
+L3812: 545
+L3813: Net loss
+L3814: $
+L3815: (111,437
+L3816: )
+L3817: $
+L3818: (106,441
+L3819: )
+L3820: $
+L3821: (4,996
+L3822: )
+L3823: 24
+L3824: Table of Contents
+L3825: Collaboration Revenue
+L3826: Collaboration revenue was $12.3 million for the three months ended September 30, 2026 and was primarily related to $12.3 million in previously deferred collaboration revenue recognized under an amendment to the 2015 Collaboration Agreement with Vertex during the third quarter of 2026. There was no collaboration revenue for the three months ended September 30, 2025. Please refer to Note 6 of the notes to our unaudited condensed consolidated financial statements included in this Quarterly Report on Form 10-Q for further information on significant collaborative arrangements.
+L3827: Research and Development Expenses
+L3828: Research and development expenses were $71.9 million for the three months ended September 30, 2026, compared to $58.9 million for the three months ended September 30, 2025. The following table summarizes our research and development expenses for the three months ended September 30, 2026 and 2025, together with the changes in those items in dollars (in thousands):
+L3829: Three Months Ended September 30,
+L3830: Period to Period
+L3831: 2026
+L3832: 2025
+L3833: Change
+L3834: External research and development expenses
+L3835: $
+L3836: 25,123
+L3837: $
+L3838: 14,908
+L3839: $
+L3840: 10,215
+L3841: Employee-related expenses
+L3842: 11,169
+L3843: 13,871
+L3844: (2,702
+L3845: )
+L3846: Facility expenses
+L3847: 22,509
+L3848: 21,629
+L3849: 880
+L3850: Stock-based compensation expenses
+L3851: 8,118
+L3852: 7,577
+L3853: 541
+L3854: Sublicense and license fees
+L3855: 4,498
+L3856: 849
+L3857: 3,649
+L3858: Other expenses
+L3859: 471
+L3860: 68
+L3861: 403
+L3862: Total research and development expenses
+L3863: $
+L3864: 71,888
+L3865: $
+L3866: 58,902
+L3867: $
+L3868: 12,986
+L3869: The increase of approximately $13.0 million was primarily attributable to an increase in external research and development expenses and sublicense and license fees, offset by a decrease in employee-related costs.
+L3870: Acquired In-Process Research and Development Expenses
+L3871: Acquired in-process research and development expenses were $11.7 million for the three months ended September 30, 2026 and primarily consisted of a development milestone under the Sirius Agreement that was recognized in the third quarter of 2026. No acquired in-process research and development expenses were recognized for the three months ended September 30, 2025.
+L3872: General and Administrative Expenses
+L3873: General and administrative expenses were $17.9 million for the three months ended September 30, 2026, compared to $16.9 million for the three months ended September 30, 2025.
+L3874: Collaboration Expense, Net
+L3875: Collaboration expense, net, was $41.3 million for the three months ended September 30, 2026, compared to $57.1 million for the three months ended September 30, 2025. The decrease was primarily attributable to an increase in our share of CASGEVY revenue.
+L3876: Other Income, Net
+L3877: Other income was $18.7 million for the three months ended September 30, 2026, compared to other income of $26.2 million for the three months ended September 30, 2025. The decrease of approximately $7.5 million in other income was primarily due to interest expense on the Notes, as well as the change in fair value of corporate equity securities during the three months ended September 30, 2026.
+L3878: 25
+L3879: Table of Contents
+L3880: Comparison of the nine months ended September 30, 2026 and 2025 (in thousands)
+L3881: :
+L3882: Nine Months Ended September 30,
+L3883: Period to Period
+L3884: 2026
+L3885: 2025
+L3886: Change
+L3887: Revenue:
+L3888: Collaboration revenue
+L3889: $
+L3890: 23,323
+L3891: $
+L3892: —
+L3893: $
+L3894: 23,323
+L3895: Grant revenue
+L3896: 985
+L3897: 2,646
+L3898: (1,661
+L3899: )
+L3900: Total revenue
+L3901: 24,308
+L3902: 2,646
+L3903: 21,662
+L3904: Operating expenses:
+L3905: Research and development
+L3906: 207,614
+L3907: 201,280
+L3908: 6,334
+L3909: Acquired in-process research and development
+L3910: 14,148
+L3911: 96,253
+L3912: (82,105
+L3913: )
+L3914: General and administrative
+L3915: 52,603
+L3916: 55,143
+L3917: (2,540
+L3918: )
+L3919: Collaboration expense, net
+L3920: 127,505
+L3921: 159,777
+L3922: (32,272
+L3923: )
+L3924: Total operating expenses
+L3925: 401,870
+L3926: 512,453
+L3927: (110,583
+L3928: )
+L3929: Loss from operations
+L3930: (377,562
+L3931: )
+L3932: (509,807
+L3933: )
+L3934: 132,245
+L3935: Other income, net
+L3936: 53,913
+L3937: 61,841
+L3938: (7,928
+L3939: )
+L3940: Loss before income taxes
+L3941: (323,649
+L3942: )
+L3943: (447,966
+L3944: )
+L3945: 124,317
+L3946: Provision for income taxes
+L3947: (1,873
+L3948: )
+L3949: (3,020
+L3950: )
+L3951: 1,147
+L3952: Net loss
+L3953: $
+L3954: (325,522
+L3955: )
+L3956: $
+L3957: (450,986
+L3958: )
+L3959: $
+L3960: 125,464
+L3961: Collaboration Revenue
+L3962: Collaboration revenue was $23.3 million for the nine months ended September 30, 2026 and was primarily related to $12.3 million in previously deferred collaboration revenue recognized under an amendment to the 2015 Collaboration Agreement with Vertex during the third quarter of 2026, as well as an upfront payment received as part of an immaterial license and collaboration agreement entered into during the second quarter of 2026. There was no collaboration revenue for the nine months ended September 30, 2025. Please refer to Note 6 of the notes to our unaudited condensed consolidated financial statements included in this Quarterly Report on Form 10-Q for further information on significant collaboration agreements.
+L3963: Research and Development Expenses
+L3964: Research and development expenses were $207.6 million for the nine months ended September 30, 2026, compared to $201.3 million for the nine months ended September 30, 2025. The following table summarizes our research and development expenses for the nine months ended September 30, 2026 and 2025, together with the changes in those items in dollars (in thousands):
+L3965: Nine Months Ended September 30,
+L3966: Period to Period
+L3967: 2026
+L3968: 2025
+L3969: Change
+L3970: External research and development expenses
+L3971: $
+L3972: 67,410
+L3973: $
+L3974: 53,593
+L3975: $
+L3976: 13,817
+L3977: Employee-related expenses
+L3978: 37,889
+L3979: 50,571
+L3980: (12,682
+L3981: )
+L3982: Facility expenses
+L3983: 66,451
+L3984: 68,853
+L3985: (2,402
+L3986: )
+L3987: Stock-based compensation expenses
+L3988: 23,812
+L3989: 25,115
+L3990: (1,303
+L3991: )
+L3992: Sublicense and license fees
+L3993: 11,242
+L3994: 2,376
+L3995: 8,866
+L3996: Other expenses
+L3997: 810
+L3998: 772
+L3999: 38
+L4000: Total research and development expenses
+L4001: $
+L4002: 207,614
+L4003: $
+L4004: 201,280
+L4005: $
+L4006: 6,334
+L4007: The increase of approximately $6.3 million was primarily attributable to an increase in external research and development expenses and sublicense and license fees, offset by a decrease in employee-related costs, including stock-based compensation expenses.
+L4008: Acquired In-Process Research and Development Expenses
+L4009: Acquired in-process research and development expenses were $14.1 million for the nine months ended September 30, 2026, compared to $96.3 million for the nine months ended September 30, 2025. Acquired in-process research and development expenses for the nine months ended September 30, 2026 primarily consisted of a development milestone under the Sirius Agreement that was recognized in the third quarter of 2026. Acquired in-process research and development expenses for the nine months ended September 30, 2025 were attributable to the costs incurred upon entering the Sirius Agreement during the second quarter of 2025. Please refer to Note 6 of the notes to our unaudited condensed consolidated financial statements included in this Quarterly Report on Form 10-Q for further information on the Sirius Agreement.
+L4010: General and Administrative Expenses
+L4011: General and administrative expenses were $52.6 million for the nine months ended September 30, 2026, compared to $55.1 million for the nine months ended September 30, 2025. The decrease of approximately $2.5 million was primarily associated with a
+L4012: 26
+L4013: Table of Contents
+L4014: decrease in employee-related costs, including stock-based compensation expenses, as well as a decrease in consulting costs.
+L4015: Collaboration Expense, Net
+L4016: Collaboration expense, net, was $127.5 million for the nine months ended September 30, 2026, compared to $159.8 million for the nine months ended September 30, 2025. The decrease was primarily attributable to an increase in our share of CASGEVY revenue.
+L4017: Other Income, Net
+L4018: Other income was $53.9 million for the nine months ended September 30, 2026, compared to $61.8 million of income for the nine months ended September 30, 2025. The decrease of approximately $7.9 million was primarily due to interest expense on the Notes during the nine months ended September 30, 2026.
+L4019: Liquidity and Capital Resources
+L4020: We have predominantly incurred losses and cumulative negative cash flows from operations since our inception. As of September 30, 2026, we had $2,276.6 million in cash, cash equivalents and marketable securities, of which approximately $308.6 million was held outside of the United States, and an accumulated deficit of $2,273.1 million. We anticipate that we will continue to incur losses for at least the next several years. We expect to continue to incur research and development costs and general and administrative expenses consistent with costs associated with research and development at companies of our size and stage of development, and, as a result, we will need additional capital to fund our operations, which we may raise through public or private equity or debt financings, strategic collaborations, or other sources.
+L4021: Debt
+L4022: Notes, net
+L4023: In March 2026, we issued $600.0 million aggregate principal amount of our Convertible Senior Notes due 2031, or the Notes, pursuant to an indenture dated March 16, 2026, or the Indenture, between us and U.S. Bank Trust Company, National Association, as trustee, in a private offering to qualified institutional buyers, or the 2026 Note Offering. The Notes issued in the 2026 Note Offering include the exercise in full of the initial purchasers’ option to purchase $50.0 million of additional Notes. The investors in the Notes agreed to an effective coupon of 1.125%. Because of anticipated 35% withholding on interest payments on the Notes under Swiss tax law, we agreed to increase the coupon by 0.6058% to 1.7308% to effectively eliminate the impact of such anticipated withholding on any holders who are not eligible to receive a refund.
+L4024: The Notes are senior, unsecured obligations of ours and will mature on March 1, 2031, or the maturity date, unless earlier converted, redeemed or repurchased. The Notes will accrue interest payable semiannually in arrears on March 1 and September 1 of each year, beginning on September 1, 2026. Holders may convert all or any portion of their Notes at their option prior to the maturity date, other than during a “conversion freeze period” (as defined in the Indenture). Upon conversion, we will deliver our common shares, nominal value CHF 0.03 per share, or the common shares, at an initial conversion rate of 13.0617 common shares per $1,000 principal amount of Notes (equivalent to an initial conversion price of approximately $76.56 per common share), subject to adjustment in some events in accordance with the terms of the Indenture but will not be adjusted for any accrued and unpaid interest.
+L4025: In addition, if certain corporate events occur or are anticipated to occur prior to the maturity date or if we deliver a notice of optional redemption, we will, in certain circumstances, increase the conversion rate for a holder who elects to convert our Notes in connection with such a corporate event or called (or deemed called) for redemption in connection with such notice of optional redemption. Initially, a maximum of 11,363,580 common shares may be delivered upon conversion of the Notes, based on the initial maximum conversion rate of 18.9393 common shares per $1,000 principal amount of Notes, which is subject to customary conversion rate adjustment provisions.
+L4026: We may not redeem the Notes prior to March 6, 2029. On or after such date, we may redeem for cash all or any portion of the Notes (subject to the partial redemption limitation described in the Indenture), at our option, if the last reported sale price of our common shares has been at least 130% of the conversion price for the Notes then in effect for at least 20 trading days (whether or not consecutive) during any 30 consecutive trading day period (including the last trading day of such period) ending on, and including, the trading day immediately preceding the date on which we provide notice of optional redemption, at a redemption price equal to 100% of the principal amount of the Notes to be redeemed, plus accrued and unpaid interest to, but excluding, the optional redemption date. No sinking fund is provided for the Notes.
+L4027: If we undergo a fundamental change (as defined in the Indenture), then, subject to certain conditions and except as described in the Indenture, holders may require us to repurchase for cash all or any portion of their Notes at a fundamental change repurchase price equal to 100% of the principal amount of the Notes to be repurchased, plus accrued and unpaid interest to, but excluding, the fundamental change repurchase date.
+L4028: The Indenture includes customary covenants and sets forth certain events of default after which the Notes may be declared immediately due and payable and sets forth certain types of bankruptcy or insolvency events of default involving us after which the Notes become automatically due and payable.
+L4029: 27
+L4030: Table of Contents
+L4031: We received net proceeds from the 2026 Note Offering of approximately $585.4 million, after deducting the initial purchasers’ discounts and commissions and the estimated offering expenses payable by us. Refer to Note 8 to our condensed consolidated financial statements included in this Form 10-Q for other details related to the Notes.
+L4032: At-the-Market Offerings (ATM)
+L4033: We have entered into an Open Market Sale Agreement
+L4034: SM
+L4035: , or the Sales Agreement, with Jefferies LLC under which we, at our sole discretion, are able to offer and sell, from time to time at prevailing market prices, our common shares. The following are in connection with the Sales Agreement.
+L4036: 2021 ATM
+L4037: In January 2021, we filed a prospectus supplement with the SEC to offer and sell, from time to time, common shares having aggregate gross proceeds of up to $600.0 million, or, together with the subsequent prospectus supplements filed in July 2021 and August 2024 relating to our common shares remaining under our original prospectus supplement, the 2021 ATM.
+L4038: For the three and nine months ended September 30, 2025, we issued and sold an aggregate of 4.9 million and 5.1 million common shares, respectively, under the 2021 ATM at an average price of $57.50 and $57.39 per share, respectively, for aggregate proceeds of $278.1 million and $286.8 million, respectively, which were net of equity issuance costs of $3.6 million and $3.7 million, respectively, excluding stamp taxes of $2.8 million and $2.9 million, respectively.
+L4039: As of December 31, 2025, we had issued and sold an aggregate of 8.0 million common shares under the 2021 ATM at an average price of $74.77 per share for aggregate proceeds of $592.2 million, which were net of equity issuance costs of $7.8 million, excluding stamp taxes of $5.9 million. As of December 31, 2025, no common shares remained available under the 2021 ATM.
+L4040: 2025 ATM
+L4041: In October 2025, we filed a new prospectus supplement with the SEC to offer and sell, from time to time, common shares having aggregate gross proceeds of up to $600.0 million, or the 2025 ATM.
+L4042: No common shares were issued and sold under the 2025 ATM for the three and nine months ended September 30, 2026. As of September 30, 2026, we have issued and sold an aggregate of 0.7 million common shares under the 2025 ATM at an average price of $60.81 per share for aggregate proceeds of $42.3 million, which is net of equity issuance costs of $0.5 million, excluding stamp taxes of $0.4 million. Common shares having aggregate gross proceeds up to $557.2 million remain available under the 2025 ATM.
+L4043: Share Issuance Agreement with Sirius Therapeutics
+L4044: As described in Note 6 of the notes to our unaudited condensed consolidated financial statements included in this Quarterly Report on Form 10-Q, we and Sirius entered into a share issuance agreement in 2025 and we registered and issued 1,842,105 common shares to Sirius at an issue price of $38.00 per share as partial consideration for entering into the Sirius Agreement.
+L4045: Funding Requirements
+L4046: Our primary uses of capital are, and we expect will continue to be, research and development activities, manufacturing activities, compensation and employee-related expenses, laboratory and related supplies, legal and other regulatory expenses, patent prosecution, filing, defense and intellectual property maintenance costs, business development activities, and general overhead costs, including costs associated with operating as a public company. We expect to continue to incur operating expenses consistent with costs associated with research and development at companies of our size and stage of development, which may increase in the future to support continued research and development activities and potential commercialization of our product candidates.
+L4047: Although we and our partner, Vertex, have received marketing approvals for CASGEVY in certain jurisdictions, we cannot guarantee we and Vertex will receive additional marketing approvals for CASGEVY or we will receive marketing approvals for our other product candidates in the future. Most of our programs are still in early stages of research and development and the outcome of our efforts is uncertain, and we cannot estimate the actual amounts necessary to successfully complete the development, manufacture and commercialization of any current or future product candidates, if approved, or whether, or when, we may achieve profitability. Until such time as we can generate substantial product revenues, if ever, we expect to finance our cash needs through a combination of equity financings, debt financings and payments received in connection with our collaboration and license agreements. We intend to consider opportunities to raise additional funds through the sale of equity or debt securities when market conditions are favorable to us to do so. However, the trading prices for our common shares and other biopharmaceutical companies have been highly volatile. As a result, we may face difficulties raising capital through sales of our common shares or such sales may be on unfavorable terms. In addition, a recession, depression or other sustained adverse market event, including resulting from the uncertain geopolitical environment, global trade policy and global economic conditions, could materially and adversely affect our business and the value of our common shares. To the extent that we raise additional capital through the future sale of equity or debt securities, the ownership interests of our shareholders will be diluted, and the terms of these securities may include liquidation or other preferences that adversely affect the rights of our existing shareholders. If we raise additional funds through license or collaboration arrangements in the future, we may have to relinquish valuable rights to our technologies, future revenue streams or product candidates or grant licenses on terms that may not be favorable to us. If we are unable to raise additional funds through equity or debt financings when
+L4048: 28
+L4049: Table of Contents
+L4050: needed, we may be required to delay, limit, reduce or terminate our product development or future commercialization efforts or grant rights to develop and market product candidates that we would otherwise prefer to develop and market ourselves.
+L4051: Outlook
+L4052: Based on our research and development plans and our timing expectations related to the progress of our programs, we expect our existing cash, cash equivalents and marketable securities will enable us to fund our operating expenses and capital expenditures for at least the next 24 months without giving effect to any additional proceeds we may receive under our license agreements and collaborations, including with Vertex, and any other capital raising transactions we may complete. We have based this estimate on assumptions that may prove to be wrong, and we could use our capital resources sooner than we expect. Given our need for additional financing to support the long-term clinical development and future commercialization of our programs, as applicable, we intend to consider additional financing opportunities when market terms are favorable to us.
+L4053: Our ability to generate revenue and achieve profitability depends significantly on our success in many areas, including: developing our gene editing technology platform, as well as our delivery and other technologies; selecting appropriate product candidates to develop; completing research and preclinical and clinical development of selected product candidates; obtaining regulatory approvals and marketing authorizations for product candidates for which we complete clinical trials; developing a sustainable and scalable manufacturing process for product candidates; launching and commercializing product candidates for which we obtain regulatory approvals and marketing authorizations, either directly or with a collaborator or distributor; obtaining market acceptance of our product candidates, either directly or with a collaborator or distributor, if approved, including for CASGEVY; addressing any competing technological and market developments; negotiating favorable terms in any collaboration, licensing or other arrangements into which we may enter; maintaining good relationships with our collaborators and licensors; maintaining, defending, protecting and expanding our estate of intellectual property rights, including patents, trade secrets and know-how; and attracting, hiring and retaining qualified personnel.
+L4054: Cash Flows
+L4055: The following table provides information regarding our cash flows for each of the periods below (in thousands):
+L4056: Nine Months Ended September 30,
+L4057: Period to Period
+L4058: 2026
+L4059: 2025
+L4060: Change
+L4061: Net cash used in operating activities
+L4062: $
+L4063: (282,079
+L4064: )
+L4065: $
+L4066: (252,461
+L4067: )
+L4068: $
+L4069: (29,618
+L4070: )
+L4071: Net cash used in investing activities
+L4072: (480,488
+L4073: )
+L4074: (69,004
+L4075: )
+L4076: (411,484
+L4077: )
+L4078: Net cash provided by financing activities
+L4079: 603,542
+L4080: 309,612
+L4081: 293,930
+L4082: Effect of exchange rate changes on cash
+L4083: (20
+L4084: )
+L4085: 94
+L4086: (114
+L4087: )
+L4088: Net decrease in cash
+L4089: $
+L4090: (159,045
+L4091: )
+L4092: $
+L4093: (11,759
+L4094: )
+L4095: $
+L4096: (147,286
+L4097: )
+L4098: Operating Activities
+L4099: Net cash used in operating activities was $282.1 million for the nine months ended September 30, 2026, compared to $252.5 million for the nine months ended September 30, 2025. The $29.6 million increase in net cash used in operating activities was primarily driven by acquired in-process research and development related to the Sirius Agreement in 2025 and the timing of receipt of a $25.0 million milestone payment from Vertex which was paid in the first quarter of 2025, offset by a decrease in net loss of approximately $125.5 million.
+L4100: Investing Activities
+L4101: Net cash used in investing activities for the nine months ended September 30, 2026 was $480.5 million, compared to net cash used in investing activities of $69.0 million for the nine months ended September 30, 2025. The increase in net cash used in investing activities was primarily driven by a net increase in purchases of our marketable securities.
+L4102: Financing Activities
+L4103: Net cash provided by financing activities for the nine months ended September 30, 2026 was $603.5 million, compared with $309.6 million for the nine months ended September 30, 2025. Net cash provided by financing activities for the nine months ended September 30, 2026 consisted primarily of $585.4 million in net proceeds from the issuance of the Notes in March 2026 and was offset by a decrease of $287.3 million in proceeds from the issuance of common shares.
+L4104: Critical Accounting Policies and Estimates
+L4105: There have been no material changes in our critical accounting policies and estimates in the preparation of our condensed consolidated financial statements during the three and nine months ended September 30, 2026 compared to those discussed in our Annual Report on Form 10-K for the year ended December 31, 2025 filed with the SEC on February 12, 2026, with the exception of the new policy with respect to convertible debt described below.
+L4106: 29
+L4107: Table of Contents
+L4108: Convertible debt
+L4109: We account for our convertible debt instruments as a single unit of accounting, a liability, as we concluded that the conversion features do not require bifurcation as a derivative under ASC Topic 815-15,
+L4110: Derivatives and Hedging
+L4111: , as we did not issue our convertible debt instruments at a substantial premium. We record debt issuance costs as contra-liabilities in our condensed consolidated balance sheets at issuance and amortize debt issuance costs over the contractual term of the convertible debt instrument using the effective interest rate. The balance of our Notes presented in our condensed consolidated balance sheets represents the principal balance of the convertible debt instrument less unamortized debt issuance costs. Please refer to Note 8 of the notes to the condensed consolidated financial statements included in this Quarterly Report on Form 10-Q for further information.
+L4112: Recent Accounting Pronouncements
+L4113: Refer to Note 1 of the notes to our unaudited condensed consolidated financial statements included in this Quarterly Report on Form 10-Q for a discussion of recent accounting pronouncements.
+L4114: Item 3. Quantitati
+L4115: ve and Qualitative Disclosures about Market Risk
+L4116: Interest Rate Sensitivity
+L4117: We are exposed to market risk related to changes in interest rates. As of September 30, 2026, we had cash, cash equivalents and marketable securities of $2,276.6 million, primarily invested in U.S. treasury securities and government agency securities, corporate bonds, commercial paper and money market accounts invested in U.S. government agency securities. Due to the conservative nature of these instruments, we do not believe that we have a material exposure to interest rate risk. If interest rates were to increase or decrease by 1%, the fair value of our investment portfolio would increase or decrease by an immaterial amount.
+L4118: Foreign Currency Exchange Rate Risk
+L4119: As a result of our foreign operations, we face exposure to movements in foreign currency exchange rates, primarily the Swiss Franc and British Pound, against the U.S. dollar. The current exposures arise primarily from cash, accounts payable and intercompany receivables and payables. Changes in foreign exchange rates affect our condensed consolidated statements of operations and distort comparisons between periods. To date, foreign currency transaction gains and losses have not been material to our financial statements, and we have not engaged in any foreign currency hedging transactions.
+L4120: Inflation
+L4121: Inflation generally affects us by increasing our cost of labor, clinical trial and manufacturing costs. We do not believe that inflation had a material effect on our business, financial condition or results of operations during the three and nine months ended September 30, 2026 and 2025.
+L4122: Item 4. Controls
+L4123: and Procedures.
+L4124: Management’s Evaluation of our Disclosure Controls and Procedures
+L4125: We maintain disclosure controls and procedures that are designed to ensure that information required to be disclosed in the reports that we file or submit under the Securities Exchange Act of 1934 is (1) recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms and (2) accumulated and communicated to our management, including our principal executive officer and principal financial officer, to allow timely decisions regarding required disclosure.
+L4126: As of September 30, 2026, our management, with the participation of our principal executive officer and principal financial officer, evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934). Our management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives, and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures. Our principal executive officer and principal financial officer have concluded based upon the evaluation described above that, as of September 30, 2026, our disclosure controls and procedures were effective at the reasonable assurance level.
+L4127: Changes in Internal Control over Financial Reporting
+L4128: During the quarter ended September 30, 2026, there were no changes in our internal control over financial reporting, as such term is defined in Rules 13a-15(f) and 15(d)-15(f) promulgated under the Securities Exchange Act of 1934, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+L4129: 30
+L4130: Table of Contents
+L4131: PART II—OTHER
+L4132: INFORMATION
+L4133: Item 1. Legal
+L4134: Proceedings.
+L4135: In the ordinary course of business, we are or have been from time to time involved in lawsuits, investigations, proceedings and threats of litigation related to, among other things, our intellectual property estate (including certain in-licensed intellectual property), commercial arrangements and other matters. Such proceedings may include quasi-litigation,
+L4136: inter partes
+L4137: administrative proceedings in the U.S. Patent and Trademark Office and the European Patent Office involving our intellectual property estate including certain in-licensed intellectual property. For example, in the fourth quarter of 2025, ToolGen, Inc., or ToolGen, initiated a lawsuit against us and other third parties alleging patent infringement by CASGEVY of a ToolGen patent relating to CRISPR/Cas9 gene editing technology. We were subsequently dismissed from the lawsuit as a defendant in April 2026 without prejudice. The outcome of any of the foregoing is inherently uncertain. In addition, litigation and related matters are costly and may divert the attention of our management and other resources that would otherwise be engaged in other activities. If we were unable to prevail in any such proceedings, our business, results of operations, liquidity and financial condition could be adversely affected. There are currently no claims or actions pending against us that, in the opinion of our management, are likely to have a material adverse effect on our business.
+L4138: There have been no material developments with respect to the legal proceedings previously disclosed in “Item 3. Legal Proceedings” of our Annual Report on Form 10-K for the fiscal year ended December 31, 2025 filed with the SEC on February 12, 2026.
+L4139: Item 1A.
+L4140: Risk Factors.
+L4141: In addition to the risks described in our Annual Report on Form 10-K and any quarterly report on Form 10-Q, you should carefully consider the other information set forth in this Form 10-Q and the information in our other filings with the SEC, as they could materially affect our business, financial condition or future results of operations. There have been no material changes to the risk factors previously disclosed in Part I, Item 1A (Risk Factors) of our Annual Report on Form 10-K for the fiscal year ended December 31, 2025 filed with the SEC on February 12, 2026 and Part II, Item 1A (Risk Factors) of our Quarterly Report on Form 10-Q for the quarter ended March 31, 2026 filed with the SEC on May 4, 2026.
+L4142: Item 2. Unregister
+L4143: ed Sales of Equity Securities and Use of Proceeds.
+L4144: None.
+L4145: Item 3. Defaults U
+L4146: pon Senior Securities.
+L4147: Not applicable.
+L4148: Item 4. Mine S
+L4149: afety Disclosures.
+L4150: Not applicable.
+L4151: Item 5. Other I
+L4152: nformation.
+L4153: (a)	Not applicable.
+L4154: (b) 	Not applicable.
+L4155: (c)	From time to time, our officers (as defined in Rule 16a–1(f)) and directors may enter into Rule 10b5-1 or non-Rule 10b5-1 trading arrangements (as each such term is defined in Item 408 of Regulation S-K). During the three months ended September 30, 2026
+L4156: , none of our officers and directors
+L4157: adopted
+L4158: ,
+L4159: modified
+L4160: or
+L4161: terminated
+L4162: a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement.
+L4163: Item 6. E
+L4164: xhibits
+L4165: The exhibits filed as part of this Quarterly Report on Form 10-Q are set forth in the Exhibit Index below.
+L4166: Exhibit
+L4167: Number
+L4168: Description of Document
+L4169: 10.1#
+L4170: Employment Agreement, dated October 19, 2026, by and between CRISPR Therapeutics, Inc. and Andrew J. Silver (incorporated by reference herein to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed on October 19, 2026)
+L4171: .
+L4172: 31.1*
+L4173: Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+L4174: 31.2*
+L4175: Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+L4176: 31
+L4177: Table of Contents
+L4178: 32.1*+
+L4179: Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+L4180: 101.INS*
+L4181: Inline XBRL Instance Document – the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the inline XBRL document
+L4182: 101.SCH*
+L4183: Inline XBRL Taxonomy Extension Schema With Embedded Linkbase Documents
+L4184: 104*
+L4185: Cover Page Interactive Data File (formatted as inline XBRL with applicable taxonomy extension information contained in Exhibits 101)
+L4186: *	Filed herewith.
+L4187: #	Indicates a management contract or any compensatory plan, contract, or arrangement.
+L4188: +	The certification attached as Exhibit 32.1 that accompany this Quarterly Report on Form 10-Q are not deemed filed with the Securities and Exchange Commission and are not to be incorporated by reference into any filing of CRISPR Therapeutics AG under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date of this Form 10-Q, irrespective of any general incorporation language contained in such filing.
+L4189: 32
+L4190: Table of Contents
+L4191: SIGNAT
+L4192: URES
+L4193: Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+L4194: CRISPR Therapeutics AG
+L4195: Dated: November 2, 2026
+L4196: By:
+L4197: /s/ Samarth Kulkarni
+L4198: Samarth Kulkarni, Ph.D.
+L4199: Chief Executive Officer
+L4200: (Principal Executive Officer)
+L4201: Dated: November 2, 2026
+L4202: By:
+L4203: /s/ Andrew J. Silver
+L4204: Andrew J. Silver
+L4205: Chief Financial Officer
+L4206: (Principal Financial Officer)
+L4207: 33

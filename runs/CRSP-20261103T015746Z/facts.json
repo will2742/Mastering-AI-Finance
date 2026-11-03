@@ -1,0 +1,308 @@
+{
+  "ticker": "CRSP",
+  "company": "CRISPR Therapeutics AG",
+  "cik": "0001674416",
+  "run_time_utc": "20261103T015746Z",
+  "filings": {
+    "10-K": {
+      "accessionNumber": "0001193125-26-048957",
+      "filingDate": "2026-02-12",
+      "reportDate": "2025-12-31",
+      "acceptanceDateTime": "2026-02-12T21:59:04.000Z",
+      "act": "34",
+      "form": "10-K",
+      "fileNumber": "001-37923",
+      "filmNumber": "26627374",
+      "items": "",
+      "core_type": "XBRL",
+      "size": 24441834,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "isXBRLNumeric": null,
+      "primaryDocument": "crsp-20251231.htm",
+      "primaryDocDescription": "10-K"
+    },
+    "10-Q": {
+      "accessionNumber": "0001193125-26-443665",
+      "filingDate": "2026-11-02",
+      "reportDate": "2026-09-30",
+      "acceptanceDateTime": "2026-11-02T21:10:56.000Z",
+      "act": "34",
+      "form": "10-Q",
+      "fileNumber": "001-37923",
+      "filmNumber": "261512449",
+      "items": "",
+      "core_type": "XBRL",
+      "size": 10917919,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "isXBRLNumeric": 1,
+      "primaryDocument": "crsp-20260930.htm",
+      "primaryDocDescription": "10-Q"
+    },
+    "8-K": {
+      "accessionNumber": "0001193125-26-443644",
+      "filingDate": "2026-11-02",
+      "reportDate": "2026-11-02",
+      "acceptanceDateTime": "2026-11-02T21:07:19.000Z",
+      "act": "34",
+      "form": "8-K",
+      "fileNumber": "001-37923",
+      "filmNumber": "261512375",
+      "items": "2.02,9.01",
+      "core_type": "XBRL",
+      "size": 423139,
+      "isXBRL": 1,
+      "isInlineXBRL": 1,
+      "isXBRLNumeric": 0,
+      "primaryDocument": "crsp-20261102.htm",
+      "primaryDocDescription": "8-K"
+    }
+  },
+  "documents": {
+    "10-K": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526048957/crsp-20251231.htm"
+    },
+    "10-Q": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526443665/crsp-20260930.htm"
+    },
+    "release": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1674416/000119312526443644/crsp-ex99_1.htm",
+      "name": "crsp-ex99_1.htm"
+    }
+  },
+  "annual_facts": {
+    "revenue": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "val": 3510000,
+      "accn": "0001193125-26-048957",
+      "fy": 2025,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-02-12",
+      "frame": "CY2025",
+      "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+      "unit": "USD"
+    },
+    "operating_income": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "val": -664571000,
+      "accn": "0001193125-26-048957",
+      "fy": 2025,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-02-12",
+      "frame": "CY2025",
+      "tag": "OperatingIncomeLoss",
+      "unit": "USD"
+    },
+    "net_income": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "val": -581599000,
+      "accn": "0001193125-26-048957",
+      "fy": 2025,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-02-12",
+      "tag": "NetIncomeLoss",
+      "unit": "USD"
+    },
+    "diluted_eps": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "val": -6.47,
+      "accn": "0001193125-26-048957",
+      "fy": 2025,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-02-12",
+      "frame": "CY2025",
+      "tag": "EarningsPerShareDiluted",
+      "unit": "USD/shares"
+    },
+    "equity": {
+      "end": "2025-12-31",
+      "val": 1921813000,
+      "accn": "0001193125-26-048957",
+      "fy": 2025,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-02-12",
+      "tag": "StockholdersEquity",
+      "unit": "USD"
+    },
+    "long_term_debt": null,
+    "cash_from_operations": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "val": -345014000,
+      "accn": "0001193125-26-048957",
+      "fy": 2025,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-02-12",
+      "frame": "CY2025",
+      "tag": "NetCashProvidedByUsedInOperatingActivities",
+      "unit": "USD"
+    },
+    "capex": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "val": 914000,
+      "accn": "0001193125-26-048957",
+      "fy": 2025,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-02-12",
+      "frame": "CY2025",
+      "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+      "unit": "USD"
+    },
+    "cash": {
+      "end": "2025-12-31",
+      "val": 347559000,
+      "accn": "0001193125-26-048957",
+      "fy": 2025,
+      "fp": "FY",
+      "form": "10-K",
+      "filed": "2026-02-12",
+      "tag": "CashAndCashEquivalentsAtCarryingValue",
+      "unit": "USD"
+    }
+  },
+  "ratios": {
+    "operating_margin": -189.33646723646723,
+    "debt_to_equity": null,
+    "free_cash_flow": -345928000,
+    "pe": null
+  },
+  "quarter_release_matches": [
+    {
+      "line": 98,
+      "text": "Net Loss:"
+    },
+    {
+      "line": 99,
+      "text": "Net loss was $111.4 million for the third quarter of 2026, compared to a net loss of $106.4 million for the third quarter of 2025."
+    },
+    {
+      "line": 139,
+      "text": "Collaboration revenue"
+    },
+    {
+      "line": 153,
+      "text": "Total revenue"
+    },
+    {
+      "line": 198,
+      "text": "Net loss before income taxes"
+    },
+    {
+      "line": 216,
+      "text": "Net loss"
+    },
+    {
+      "line": 252,
+      "text": "Net loss per common share \u2014 basic"
+    },
+    {
+      "line": 270,
+      "text": "Net loss per common share \u2014 diluted"
+    }
+  ],
+  "peers": {
+    "NTLA": {
+      "name": "Intellia Therapeutics, Inc.",
+      "revenue": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "val": 67671000,
+        "accn": "0001193125-26-076550",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-26",
+        "frame": "CY2025",
+        "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "unit": "USD"
+      },
+      "operating_income": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "val": -440990000,
+        "accn": "0001193125-26-076550",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-26",
+        "frame": "CY2025",
+        "tag": "OperatingIncomeLoss",
+        "unit": "USD"
+      },
+      "operating_margin": -6.516676271962879
+    },
+    "EDIT": {
+      "name": "Editas Medicine, Inc.",
+      "revenue": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "val": 40520000,
+        "accn": "0001650664-26-000017",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-03-09",
+        "frame": "CY2025",
+        "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "unit": "USD"
+      },
+      "operating_income": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "val": -160010000,
+        "accn": "0001650664-26-000017",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-03-09",
+        "frame": "CY2025",
+        "tag": "OperatingIncomeLoss",
+        "unit": "USD"
+      },
+      "operating_margin": -3.9489141164856862
+    },
+    "BEAM": {
+      "name": "Beam Therapeutics Inc.",
+      "revenue": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "val": 139743000,
+        "accn": "0001193125-26-065194",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-24",
+        "frame": "CY2025",
+        "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "unit": "USD"
+      },
+      "operating_income": {
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "val": -383693000,
+        "accn": "0001193125-26-065194",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "filed": "2026-02-24",
+        "frame": "CY2025",
+        "tag": "OperatingIncomeLoss",
+        "unit": "USD"
+      },
+      "operating_margin": -2.74570461490021
+    }
+  }
+}
